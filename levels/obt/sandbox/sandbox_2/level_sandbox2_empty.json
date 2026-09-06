@@ -1,0 +1,36 @@
+{
+  "options": {
+    "characterLimit": 8,
+    "maxLifePoint": 20,
+    "initialCost": 10,
+    "maxCost": 99,
+    "costIncreaseTime": 1.0,
+    "moveMultiplier": 0.5,
+    "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
+    "isTrainingLevel": false,
+    "isHardTrainingLevel": false,
+    "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
+    "maxPlayTime": -1.0,
+    "functionDisableMask": "NONE",
+    "enemyTauntLevelPow": 0,
+    "deployCostPostDelta": 0,
+    "deployCostPostDeltaMinCost": 0
+  },
+  "bgmEvent": "escape",
+  "mapData": {},
+  "tilesDisallowToLocate": [],
+  "globalBuffs": [],
+  "extraRoutes": [],
+  "enemies": [],
+  "enemyDbRefs": [],
+  "waves": [],
+  "predefines": {
+    "characterInsts": [],
+    "tokenInsts": [],
+    "characterCards": [],
+    "tokenCards": []
+  },
+  "randomSeed": 1055433261
+}
