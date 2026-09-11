@@ -42645,7 +42645,7 @@
       "canUseFirework": false,
       "canMultipleBattle": false,
       "isStagePatch": false,
-      "S_extraCondition": [
+      "extraCondition": [
         {
           "index": 0,
           "template": "ReadStorySome",
@@ -42655,7 +42655,7 @@
           ]
         }
       ],
-      "S_extraInfo": [
+      "extraInfo": [
         {
           "stageId": "spst_16-01",
           "rewards": [
@@ -42733,7 +42733,7 @@
       "canUseFirework": false,
       "canMultipleBattle": false,
       "isStagePatch": false,
-      "S_extraCondition": [
+      "extraCondition": [
         {
           "index": 0,
           "template": "ReadStorySome",
@@ -42743,7 +42743,7 @@
           ]
         }
       ],
-      "S_extraInfo": [
+      "extraInfo": [
         {
           "stageId": "spst_16-02",
           "rewards": [
@@ -42821,7 +42821,7 @@
       "canUseFirework": false,
       "canMultipleBattle": false,
       "isStagePatch": false,
-      "S_extraCondition": [
+      "extraCondition": [
         {
           "index": 0,
           "template": "ReadStorySome",
@@ -42831,7 +42831,7 @@
           ]
         }
       ],
-      "S_extraInfo": [
+      "extraInfo": [
         {
           "stageId": "spst_16-03",
           "rewards": [
@@ -42909,7 +42909,7 @@
       "canUseFirework": false,
       "canMultipleBattle": false,
       "isStagePatch": false,
-      "S_extraCondition": [
+      "extraCondition": [
         {
           "index": 0,
           "template": "ReadStorySome",
@@ -42919,7 +42919,7 @@
           ]
         }
       ],
-      "S_extraInfo": [
+      "extraInfo": [
         {
           "stageId": "spst_16-04",
           "rewards": [
@@ -48460,7 +48460,7 @@
       "canUseFirework": false,
       "canMultipleBattle": false,
       "isStagePatch": false,
-      "S_extraCondition": [
+      "extraCondition": [
         {
           "index": 0,
           "template": "ReadStorySome",
@@ -48470,7 +48470,7 @@
           ]
         }
       ],
-      "S_extraInfo": [
+      "extraInfo": [
         {
           "stageId": "spst_17-01",
           "rewards": [
@@ -151304,7 +151304,7 @@
     ]
   },
   "customData": {
-    "typeAct17sideData": {
+    "TYPE_ACT17SIDE": {
       "permanent_sub_4_Stultifera_Navis": {
         "placeDataMap": {
           "p1_1": {
@@ -159427,6 +159427,7 @@
                   "selector": {
                     "professionMask": 581,
                     "buildableMask": "MELEE",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159455,6 +159456,7 @@
                   "selector": {
                     "professionMask": 58,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159467,6 +159469,7 @@
                   "selector": {
                     "professionMask": 634,
                     "buildableMask": "RANGED",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159493,6 +159496,7 @@
                   "selector": {
                     "professionMask": 1023,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159520,6 +159524,7 @@
                   "selector": {
                     "professionMask": 1023,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159547,6 +159552,7 @@
                   "selector": {
                     "professionMask": 1023,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159573,6 +159579,7 @@
                   "selector": {
                     "professionMask": 1023,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159600,6 +159607,7 @@
                   "selector": {
                     "professionMask": 1023,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159628,6 +159636,7 @@
                   "selector": {
                     "professionMask": 1023,
                     "buildableMask": "ALL",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159656,6 +159665,7 @@
                   "selector": {
                     "professionMask": 581,
                     "buildableMask": "MELEE",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -159690,6 +159700,7 @@
                   "selector": {
                     "professionMask": 58,
                     "buildableMask": "RANGED",
+                    "playerSideMask": "ALL",
                     "sideType": "ALL",
                     "heightTypeMask": "ALL"
                   },
@@ -160861,7 +160872,7 @@
         }
       }
     },
-    "typeAct25sideData": {
+    "TYPE_ACT25SIDE": {
       "permanent_sub_5_Lone_Trail": {
         "act25side_tech1_1": {
           "itemId": "act25side_tech1_1",
@@ -160880,6 +160891,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -160892,6 +160904,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -160919,6 +160932,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -160931,6 +160945,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -160958,6 +160973,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -160970,6 +160986,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -160997,6 +161014,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161009,6 +161027,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161036,6 +161055,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161063,6 +161083,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161090,6 +161111,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161103,6 +161125,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161130,6 +161153,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161143,6 +161167,7 @@
                 "selector": {
                   "professionMask": "NONE",
                   "buildableMask": "NONE",
+                  "playerSideMask": "ALL",
                   "sideType": "ALL",
                   "heightTypeMask": "ALL"
                 },
@@ -161155,7 +161180,7 @@
         }
       }
     },
-    "typeAct20sideData": {
+    "TYPE_ACT20SIDE": {
       "permanent_sidestory_16_Summer_Carnival_City": {
         "zoneAdditionDataMap": {
           "act20side_zone1": "尚未解锁",
@@ -161672,7 +161697,7 @@
         }
       }
     },
-    "typeAct21sideData": {
+    "TYPE_ACT21SIDE": {
       "permanent_sidestory_17_Il_Siracusano": {
         "zoneAdditionDataMap": {
           "permanent_sidestory_21_zone1": {

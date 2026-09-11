@@ -201,7 +201,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -209,7 +212,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -217,7 +223,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -225,7 +234,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -233,7 +245,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -241,7 +256,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creepf",
@@ -249,7 +267,10 @@
         "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creepf",
@@ -257,7 +278,10 @@
         "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 1.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_start",
@@ -281,7 +305,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -289,7 +316,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -297,7 +327,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -305,7 +338,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -313,7 +349,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -321,7 +360,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creepf",
@@ -329,7 +371,10 @@
         "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creepf",
@@ -337,7 +382,10 @@
         "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 1.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_start",
@@ -361,7 +409,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -369,7 +420,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -377,7 +431,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -385,7 +442,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -393,7 +453,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -401,7 +464,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creepf",
@@ -409,7 +475,10 @@
         "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creepf",
@@ -417,7 +486,10 @@
         "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 1.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_start",
@@ -441,7 +513,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -449,7 +524,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -457,7 +535,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_wall",
@@ -521,7 +602,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -529,7 +613,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -537,7 +624,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_wall",
@@ -601,7 +691,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -609,7 +702,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_creep",
@@ -617,7 +713,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "mode": 0.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_wall",
@@ -1610,17 +1709,17 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
+              "routeIndex": 0,
+              "blockFragment": false,
+              "autoPreviewRoute": false,
+              "autoDisplayEnemyInfo": false,
+              "isUnharmfulAndAlwaysCountAsKilled": false,
+              "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
+              "weight": 0,
+              "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "useExtraRoute": false,
-              "routeIndex": 0,
-              "blockFragment": false,
-              "autoPreviewRoute": false,
-              "autoDisplayEnemyInfo": false,
-              "isUnharmfulAndAlwaysCountAsKilled": false,
-              "randomType": "ALWAYS",
-              "refreshType": "ALWAYS",
-              "weight": 0,
-              "dontBlockWave": false,
-              "forceBlockWaveInBranch": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1631,8 +1730,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 1,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1642,6 +1740,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1652,8 +1751,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 2,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1663,6 +1761,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1678,8 +1777,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 3,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1689,6 +1787,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1699,8 +1798,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 4,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1710,6 +1808,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1720,8 +1819,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 5,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1731,6 +1829,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1741,8 +1840,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 6,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1752,6 +1850,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1762,8 +1861,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 7,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1773,6 +1871,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1783,8 +1882,7 @@
               "count": 1,
               "preDelay": 0.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 8,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1794,6 +1892,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1809,10 +1908,9 @@
               "count": 3,
               "preDelay": 5.0,
               "interval": 11.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 9,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1820,6 +1918,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1830,10 +1929,9 @@
               "count": 3,
               "preDelay": 9.0,
               "interval": 11.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 10,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1841,6 +1939,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1851,10 +1950,9 @@
               "count": 3,
               "preDelay": 14.0,
               "interval": 11.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 11,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1862,6 +1960,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1877,8 +1976,7 @@
               "count": 4,
               "preDelay": 3.0,
               "interval": 7.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 12,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1888,6 +1986,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1898,8 +1997,7 @@
               "count": 4,
               "preDelay": 5.0,
               "interval": 7.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 13,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1909,6 +2007,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1919,8 +2018,7 @@
               "count": 4,
               "preDelay": 7.0,
               "interval": 7.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 14,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1930,6 +2028,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1945,10 +2044,9 @@
               "count": 3,
               "preDelay": 4.0,
               "interval": 4.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 15,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1956,6 +2054,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1966,10 +2065,9 @@
               "count": 3,
               "preDelay": 8.0,
               "interval": 4.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 16,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1977,6 +2075,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1987,10 +2086,9 @@
               "count": 2,
               "preDelay": 16.0,
               "interval": 4.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 17,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1998,6 +2096,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -2020,7 +2119,7 @@
           "characterKey": "char_137_brownb",
           "level": 55,
           "phase": "PHASE_1",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -2039,7 +2138,7 @@
           "characterKey": "char_131_flameb",
           "level": 55,
           "phase": "PHASE_1",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -2058,7 +2157,7 @@
           "characterKey": "char_185_frncat",
           "level": 55,
           "phase": "PHASE_1",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -2080,7 +2179,7 @@
           "characterKey": "trap_061_creep",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -2096,7 +2195,7 @@
           "characterKey": "char_449_glider",
           "level": 55,
           "phase": "PHASE_1",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -2110,7 +2209,7 @@
           "characterKey": "char_445_wscoot",
           "level": 20,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 1,

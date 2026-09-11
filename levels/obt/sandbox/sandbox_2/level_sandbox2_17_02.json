@@ -386,7 +386,7 @@
           "characterKey": "trap_522_xb2dor",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -410,7 +410,7 @@
           "characterKey": "trap_522_xb2dor",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -434,7 +434,7 @@
           "characterKey": "trap_522_xb2dor",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -458,7 +458,7 @@
           "characterKey": "trap_522_xb2dor",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -481,7 +481,7 @@
           "characterKey": "trap_518_xb2irn",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": -1,
@@ -499,7 +499,7 @@
           "characterKey": "trap_518_xb2irn",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": -1,
@@ -517,7 +517,7 @@
           "characterKey": "trap_519_xb2dmn",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": -1,
@@ -535,7 +535,7 @@
           "characterKey": "trap_519_xb2dmn",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": -1,
@@ -554,7 +554,7 @@
           "characterKey": "trap_519_xb2dmn",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": -1,
@@ -573,7 +573,7 @@
           "characterKey": "trap_535_xb2fbw",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -594,7 +594,7 @@
           "characterKey": "trap_535_xb2fbw",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -612,7 +612,7 @@
           "characterKey": "trap_535_xb2fbw",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -631,7 +631,7 @@
           "characterKey": "trap_544_xb2fmr",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": -1,
@@ -650,7 +650,7 @@
           "characterKey": "trap_415_trademan",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
@@ -672,7 +672,7 @@
           "characterKey": "trap_526_xb2sit",
           "level": 1,
           "phase": "PHASE_0",
-          "favorBattlePhase": 0,
+          "favorPoint": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,

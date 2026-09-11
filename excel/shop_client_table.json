@@ -61319,7 +61319,7 @@
     }
   },
   "shopMonthlySubGoodId": "GP_mCard_1",
-  "limitedShopSchedule": [
+  "ls": [
     {
       "gachaPoolId": "LIMITED_9_0_3",
       "LMTGSId": "LMTGS_COIN_903",
@@ -61530,5 +61530,5 @@
       "endTime": 1786996799
     }
   ],
-  "overlaySchedule": []
+  "os": []
 }

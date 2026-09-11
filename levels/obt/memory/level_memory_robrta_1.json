@@ -305,7 +305,10 @@
         "buildableType": "MELEE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
-        "advancedBuildableMask": 20
+        "blackboard": {
+          "def": 200.0
+        },
+        "advancedBuildableMask": "NONE"
       },
       {
         "tileKey": "tile_forbidden",
@@ -972,7 +975,6 @@
               "count": 2,
               "preDelay": 3.0,
               "interval": 2.0,
-              "useExtraRoute": false,
               "routeIndex": 0,
               "blockFragment": false,
               "autoPreviewRoute": false,
@@ -983,6 +985,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -998,10 +1001,9 @@
               "count": 2,
               "preDelay": 3.0,
               "interval": 2.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
-              "blockFragment": true,
-              "autoPreviewRoute": false,
+              "routeIndex": 1,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "autoDisplayEnemyInfo": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
@@ -1009,6 +1011,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1019,8 +1022,7 @@
               "count": 3,
               "preDelay": 10.0,
               "interval": 3.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 2,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1030,6 +1032,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1040,8 +1043,7 @@
               "count": 2,
               "preDelay": 10.0,
               "interval": 5.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 3,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1051,6 +1053,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1066,8 +1069,7 @@
               "count": 3,
               "preDelay": 15.0,
               "interval": 5.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 4,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1077,6 +1079,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1087,8 +1090,7 @@
               "count": 4,
               "preDelay": 20.0,
               "interval": 5.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 5,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1098,6 +1100,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1113,8 +1116,7 @@
               "count": 2,
               "preDelay": 0.0,
               "interval": 2.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 6,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1124,6 +1126,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1134,8 +1137,7 @@
               "count": 2,
               "preDelay": 15.0,
               "interval": 2.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 7,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1145,6 +1147,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1155,8 +1158,7 @@
               "count": 1,
               "preDelay": 10.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 8,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1166,6 +1168,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             },
@@ -1176,8 +1179,7 @@
               "count": 2,
               "preDelay": 30.0,
               "interval": 5.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 9,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1187,6 +1189,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1209,7 +1212,7 @@
           "characterKey": "char_298_susuro",
           "level": 1,
           "phase": "PHASE_2",
-          "favorBattlePhase": 40,
+          "favorPoint": 40,
           "potentialRank": 0
         },
         "skillIndex": 1,
@@ -1228,7 +1231,7 @@
           "characterKey": "char_150_snakek",
           "level": 1,
           "phase": "PHASE_2",
-          "favorBattlePhase": 40,
+          "favorPoint": 40,
           "potentialRank": 0
         },
         "skillIndex": 1,
@@ -1245,7 +1248,7 @@
           "characterKey": "char_328_cammou",
           "level": 1,
           "phase": "PHASE_2",
-          "favorBattlePhase": 40,
+          "favorPoint": 40,
           "potentialRank": 0
         },
         "skillIndex": 1,
@@ -1259,7 +1262,7 @@
           "characterKey": "char_484_robrta",
           "level": 1,
           "phase": "PHASE_2",
-          "favorBattlePhase": 40,
+          "favorPoint": 40,
           "potentialRank": 0
         },
         "skillIndex": 1,
@@ -1273,7 +1276,7 @@
           "characterKey": "char_124_kroos",
           "level": 55,
           "phase": "PHASE_1",
-          "favorBattlePhase": 40,
+          "favorPoint": 40,
           "potentialRank": 0
         },
         "skillIndex": 0,

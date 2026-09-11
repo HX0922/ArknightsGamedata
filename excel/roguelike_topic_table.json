@@ -17123,7 +17123,7 @@
           "id": "rogue_1_relic_sp01",
           "buffs": [
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "life_point": 1.0,
@@ -28845,7 +28845,7 @@
       "activity": {
         "basicDatas": [],
         "activityTable": {
-          "seedModeDict": []
+          "SEED_MODE": []
         }
       }
     },
@@ -44924,7 +44924,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "life_point": 1.0,
@@ -45337,7 +45337,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "rogue_2_atk_up[king_suit].atk": 0.5,
@@ -61012,7 +61012,7 @@
       "activity": {
         "basicDatas": [],
         "activityTable": {
-          "seedModeDict": []
+          "SEED_MODE": []
         }
       }
     },
@@ -85844,7 +85844,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "life_point": 1.0,
@@ -85944,7 +85944,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "rogue_2_atk_up[king_suit].atk": 0.5,
@@ -116263,7 +116263,7 @@
       "activity": {
         "basicDatas": [],
         "activityTable": {
-          "seedModeDict": []
+          "SEED_MODE": []
         }
       }
     },
@@ -135882,7 +135882,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "life_point": 1.0,
@@ -135940,7 +135940,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "rogue_2_atk_up[king_suit].atk": 0.5,
@@ -189405,7 +189405,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "life_point": 1.0,
@@ -189494,7 +189494,7 @@
               }
             },
             {
-              "key": "char_ability_new_at_root",
+              "key": "char_ability_new",
               "blackboard": {
                 "key": 0.0,
                 "rogue_2_atk_up[king_suit].atk": 0.4,
@@ -328117,7 +328117,7 @@
       "activity": {
         "basicDatas": [],
         "activityTable": {
-          "seedModeDict": []
+          "SEED_MODE": []
         }
       }
     }
@@ -383965,7 +383965,7 @@
     }
   },
   "customizeData": {
-    "rl01": {
+    "rogue_1": {
       "developments": {
         "outbuff_1": {
           "buffId": "outbuff_1",
@@ -385281,7 +385281,7 @@
         }
       ]
     },
-    "rl02": {
+    "rogue_2": {
       "developments": {
         "rogue_2_outbuff_1": {
           "buffId": "rogue_2_outbuff_1",
@@ -387393,7 +387393,7 @@
         }
       ]
     },
-    "rl03": {
+    "rogue_3": {
       "developments": {
         "rogue_3_outbuff_1": {
           "buffId": "rogue_3_outbuff_1",
@@ -388939,7 +388939,7 @@
         }
       ]
     },
-    "rl04": {
+    "rogue_4": {
       "commonDevelopment": {
         "developments": {
           "rogue_4_outbuff_1": {
@@ -391749,7 +391749,7 @@
         "summaryDuelLose": "进入狭路相逢，并<color=#e1a9aa>失败</color>"
       }
     },
-    "rl05": {
+    "rogue_5": {
       "commonDevelopment": {
         "developments": {
           "rogue_5_outbuff_1": {
@@ -394418,7 +394418,7 @@
         "summaryExpeditionBack": "干员<color=#c23361>{0}</color>远行归来"
       }
     },
-    "rl06": {
+    "rogue_6": {
       "commonDevelopment": {
         "developments": {
           "rogue_6_outbuff_1": {

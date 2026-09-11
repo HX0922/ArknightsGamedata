@@ -1138,17 +1138,17 @@
               "count": 1,
               "preDelay": 3.0,
               "interval": 1.0,
-              "useExtraRoute": false,
               "routeIndex": 0,
-              "blockFragment": true,
+              "blockFragment": false,
               "autoPreviewRoute": true,
-              "autoDisplayEnemyInfo": false,
+              "autoDisplayEnemyInfo": true,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "randomType": "ALWAYS",
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1170,7 +1170,6 @@
               "count": 8,
               "preDelay": 3.0,
               "interval": 2.0,
-              "useExtraRoute": false,
               "routeIndex": 0,
               "blockFragment": false,
               "autoPreviewRoute": false,
@@ -1181,6 +1180,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1200,8 +1200,7 @@
               "count": 1,
               "preDelay": 3.0,
               "interval": 1.0,
-              "useExtraRoute": true,
-              "routeIndex": 0,
+              "routeIndex": 1,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -1211,6 +1210,7 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
+              "useExtraRoute": false,
               "isValid": false,
               "notCountInTotal": false
             }
@@ -1233,7 +1233,7 @@
           "characterKey": "char_148_nearl",
           "level": 80,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 5
         },
         "skillIndex": 0,
@@ -1252,7 +1252,7 @@
           "characterKey": "char_423_blemsh",
           "level": 90,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 5
         },
         "skillIndex": 0,
@@ -1269,7 +1269,7 @@
           "characterKey": "char_430_fartth",
           "level": 90,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 2,
@@ -1283,7 +1283,7 @@
           "characterKey": "char_420_flamtl",
           "level": 90,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 1,
@@ -1297,7 +1297,7 @@
           "characterKey": "char_496_wildmn",
           "level": 20,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 1,
@@ -1311,7 +1311,7 @@
           "characterKey": "char_431_ashlok",
           "level": 80,
           "phase": "PHASE_2",
-          "favorBattlePhase": 50,
+          "favorPoint": 50,
           "potentialRank": 0
         },
         "skillIndex": 0,

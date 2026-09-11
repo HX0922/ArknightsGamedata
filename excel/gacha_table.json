@@ -5721,6 +5721,21 @@
       }
     },
     {
+      "gachaPoolId": "CLASSIC_DOUBLE_77_0_1",
+      "gachaIndex": 9909,
+      "openTime": 1789588800,
+      "endTime": 1790798399,
+      "gachaPoolName": "适合多种场合的强力干员",
+      "gachaPoolSummary": "结束于10月1日 03:59",
+      "guaranteeName": "中坚选调",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAQAAAAY2hhcl8xODBfYW1nb2F0AAJzdWI2UmFyaXR5Q2hhcklkAA8AAABjaGFyXzIyMl9icGlwZQAEcmFyZTVDaGFyTGlzdABJAAAAAjAAEAAAAGNoYXJfMTc0X3NsYmVsbAACMQAQAAAAY2hhcl8yNjFfc2RkcmFnAAIyAA8AAABjaGFyXzE3MV9ibGRzawAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_54_0_5",
       "gachaIndex": 40,
       "openTime": 1727424000,

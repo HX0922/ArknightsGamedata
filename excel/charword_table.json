@@ -289245,7 +289245,7 @@
         "char_285_medic2"
       ],
       "charId": "char_285_medic2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_285_medic2",
           "voiceLangType": "CN_MANDARIN",
@@ -289281,7 +289281,7 @@
         "char_286_cast3"
       ],
       "charId": "char_286_cast3",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_286_cast3",
           "voiceLangType": "CN_MANDARIN",
@@ -289317,7 +289317,7 @@
         "char_376_therex"
       ],
       "charId": "char_376_therex",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_376_therex",
           "voiceLangType": "CN_MANDARIN",
@@ -289353,7 +289353,7 @@
         "char_502_nblade"
       ],
       "charId": "char_502_nblade",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_502_nblade",
           "voiceLangType": "CN_MANDARIN",
@@ -289389,7 +289389,7 @@
         "char_500_noirc"
       ],
       "charId": "char_500_noirc",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_500_noirc",
           "voiceLangType": "CN_MANDARIN",
@@ -289425,7 +289425,7 @@
         "char_503_rang"
       ],
       "charId": "char_503_rang",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_503_rang",
           "voiceLangType": "CN_MANDARIN",
@@ -289461,7 +289461,7 @@
         "char_501_durin"
       ],
       "charId": "char_501_durin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_501_durin",
           "voiceLangType": "CN_MANDARIN",
@@ -289497,7 +289497,7 @@
         "char_009_12fce"
       ],
       "charId": "char_009_12fce",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_009_12fce",
           "voiceLangType": "CN_MANDARIN",
@@ -289533,7 +289533,7 @@
         "char_123_fang"
       ],
       "charId": "char_123_fang",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_123_fang",
           "voiceLangType": "CN_MANDARIN",
@@ -289569,7 +289569,7 @@
         "char_240_wyvern"
       ],
       "charId": "char_240_wyvern",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_240_wyvern",
           "voiceLangType": "CN_MANDARIN",
@@ -289605,7 +289605,7 @@
         "char_192_falco"
       ],
       "charId": "char_192_falco",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_192_falco",
           "voiceLangType": "CN_MANDARIN",
@@ -289641,7 +289641,7 @@
         "char_208_melan"
       ],
       "charId": "char_208_melan",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_208_melan",
           "voiceLangType": "CN_MANDARIN",
@@ -289677,7 +289677,7 @@
         "char_283_midn"
       ],
       "charId": "char_283_midn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_283_midn",
           "voiceLangType": "CN_MANDARIN",
@@ -289713,7 +289713,7 @@
         "char_281_popka"
       ],
       "charId": "char_281_popka",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_281_popka",
           "voiceLangType": "CN_MANDARIN",
@@ -289749,7 +289749,7 @@
         "char_209_ardign"
       ],
       "charId": "char_209_ardign",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_209_ardign",
           "voiceLangType": "CN_MANDARIN",
@@ -289785,7 +289785,7 @@
         "char_122_beagle"
       ],
       "charId": "char_122_beagle",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_122_beagle",
           "voiceLangType": "CN_MANDARIN",
@@ -289821,7 +289821,7 @@
         "char_284_spot"
       ],
       "charId": "char_284_spot",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_284_spot",
           "voiceLangType": "CN_MANDARIN",
@@ -289857,7 +289857,7 @@
         "char_124_kroos"
       ],
       "charId": "char_124_kroos",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_124_kroos",
           "voiceLangType": "CN_MANDARIN",
@@ -289893,7 +289893,7 @@
         "char_211_adnach"
       ],
       "charId": "char_211_adnach",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_211_adnach",
           "voiceLangType": "CN_MANDARIN",
@@ -289929,7 +289929,7 @@
         "char_282_catap"
       ],
       "charId": "char_282_catap",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_282_catap",
           "voiceLangType": "CN_MANDARIN",
@@ -289965,7 +289965,7 @@
         "char_121_lava"
       ],
       "charId": "char_121_lava",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_121_lava",
           "voiceLangType": "CN_MANDARIN",
@@ -290001,7 +290001,7 @@
         "char_120_hibisc"
       ],
       "charId": "char_120_hibisc",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_120_hibisc",
           "voiceLangType": "CN_MANDARIN",
@@ -290037,7 +290037,7 @@
         "char_212_ansel"
       ],
       "charId": "char_212_ansel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_212_ansel",
           "voiceLangType": "CN_MANDARIN",
@@ -290073,7 +290073,7 @@
         "char_210_stward"
       ],
       "charId": "char_210_stward",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_210_stward",
           "voiceLangType": "CN_MANDARIN",
@@ -290109,7 +290109,7 @@
         "char_278_orchid"
       ],
       "charId": "char_278_orchid",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_278_orchid",
           "voiceLangType": "CN_MANDARIN",
@@ -290145,7 +290145,7 @@
         "char_141_nights"
       ],
       "charId": "char_141_nights",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_141_nights",
           "voiceLangType": "CN_MANDARIN",
@@ -290181,7 +290181,7 @@
         "char_109_fmout"
       ],
       "charId": "char_109_fmout",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_109_fmout",
           "voiceLangType": "CN_MANDARIN",
@@ -290217,7 +290217,7 @@
         "char_253_greyy"
       ],
       "charId": "char_253_greyy",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_253_greyy",
           "voiceLangType": "CN_MANDARIN",
@@ -290253,7 +290253,7 @@
         "char_328_cammou"
       ],
       "charId": "char_328_cammou",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_328_cammou",
           "voiceLangType": "CN_MANDARIN",
@@ -290289,7 +290289,7 @@
         "char_469_indigo"
       ],
       "charId": "char_469_indigo",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_469_indigo",
           "voiceLangType": "CN_MANDARIN",
@@ -290325,7 +290325,7 @@
         "char_235_jesica"
       ],
       "charId": "char_235_jesica",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_235_jesica",
           "voiceLangType": "CN_MANDARIN",
@@ -290361,7 +290361,7 @@
         "char_126_shotst"
       ],
       "charId": "char_126_shotst",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_126_shotst",
           "voiceLangType": "CN_MANDARIN",
@@ -290397,7 +290397,7 @@
         "char_190_clour"
       ],
       "charId": "char_190_clour",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_190_clour",
           "voiceLangType": "CN_MANDARIN",
@@ -290433,7 +290433,7 @@
         "char_133_mm"
       ],
       "charId": "char_133_mm",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_133_mm",
           "voiceLangType": "CN_MANDARIN",
@@ -290469,7 +290469,7 @@
         "char_118_yuki"
       ],
       "charId": "char_118_yuki",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_118_yuki",
           "voiceLangType": "CN_MANDARIN",
@@ -290505,7 +290505,7 @@
         "char_440_pinecn"
       ],
       "charId": "char_440_pinecn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_440_pinecn",
           "voiceLangType": "CN_MANDARIN",
@@ -290541,7 +290541,7 @@
         "char_302_glaze"
       ],
       "charId": "char_302_glaze",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_302_glaze",
           "voiceLangType": "CN_MANDARIN",
@@ -290577,7 +290577,7 @@
         "char_366_acdrop"
       ],
       "charId": "char_366_acdrop",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_366_acdrop",
           "voiceLangType": "CN_MANDARIN",
@@ -290613,7 +290613,7 @@
         "char_198_blackd"
       ],
       "charId": "char_198_blackd",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_198_blackd",
           "voiceLangType": "CN_MANDARIN",
@@ -290649,7 +290649,7 @@
         "char_149_scave"
       ],
       "charId": "char_149_scave",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_149_scave",
           "voiceLangType": "CN_MANDARIN",
@@ -290685,7 +290685,7 @@
         "char_290_vigna"
       ],
       "charId": "char_290_vigna",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_290_vigna",
           "voiceLangType": "CN_MANDARIN",
@@ -290721,7 +290721,7 @@
         "char_151_myrtle"
       ],
       "charId": "char_151_myrtle",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_151_myrtle",
           "voiceLangType": "CN_MANDARIN",
@@ -290757,7 +290757,7 @@
         "char_452_bstalk"
       ],
       "charId": "char_452_bstalk",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_452_bstalk",
           "voiceLangType": "CN_MANDARIN",
@@ -290793,7 +290793,7 @@
         "char_130_doberm"
       ],
       "charId": "char_130_doberm",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_130_doberm",
           "voiceLangType": "CN_MANDARIN",
@@ -290829,7 +290829,7 @@
         "char_289_gyuki"
       ],
       "charId": "char_289_gyuki",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_289_gyuki",
           "voiceLangType": "CN_MANDARIN",
@@ -290865,7 +290865,7 @@
         "char_159_peacok"
       ],
       "charId": "char_159_peacok",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_159_peacok",
           "voiceLangType": "CN_MANDARIN",
@@ -290901,7 +290901,7 @@
         "char_193_frostl"
       ],
       "charId": "char_193_frostl",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_193_frostl",
           "voiceLangType": "CN_MANDARIN",
@@ -290937,7 +290937,7 @@
         "char_271_spikes"
       ],
       "charId": "char_271_spikes",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_271_spikes",
           "voiceLangType": "CN_MANDARIN",
@@ -290973,7 +290973,7 @@
         "char_127_estell"
       ],
       "charId": "char_127_estell",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_127_estell",
           "voiceLangType": "CN_MANDARIN",
@@ -291009,7 +291009,7 @@
         "char_185_frncat"
       ],
       "charId": "char_185_frncat",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_185_frncat",
           "voiceLangType": "CN_MANDARIN",
@@ -291045,7 +291045,7 @@
         "char_137_brownb"
       ],
       "charId": "char_137_brownb",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_137_brownb",
           "voiceLangType": "CN_MANDARIN",
@@ -291081,7 +291081,7 @@
         "char_347_jaksel"
       ],
       "charId": "char_347_jaksel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_347_jaksel",
           "voiceLangType": "CN_MANDARIN",
@@ -291117,7 +291117,7 @@
         "char_301_cutter"
       ],
       "charId": "char_301_cutter",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_301_cutter",
           "voiceLangType": "CN_MANDARIN",
@@ -291153,7 +291153,7 @@
         "char_337_utage"
       ],
       "charId": "char_337_utage",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_337_utage",
           "voiceLangType": "CN_MANDARIN",
@@ -291189,7 +291189,7 @@
         "char_237_gravel"
       ],
       "charId": "char_237_gravel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_237_gravel",
           "voiceLangType": "CN_MANDARIN",
@@ -291225,7 +291225,7 @@
         "char_272_strong"
       ],
       "charId": "char_272_strong",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_272_strong",
           "voiceLangType": "CN_MANDARIN",
@@ -291261,7 +291261,7 @@
         "char_236_rope"
       ],
       "charId": "char_236_rope",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_236_rope",
           "voiceLangType": "CN_MANDARIN",
@@ -291297,7 +291297,7 @@
         "char_117_myrrh"
       ],
       "charId": "char_117_myrrh",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_117_myrrh",
           "voiceLangType": "CN_MANDARIN",
@@ -291333,7 +291333,7 @@
         "char_187_ccheal"
       ],
       "charId": "char_187_ccheal",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_187_ccheal",
           "voiceLangType": "CN_MANDARIN",
@@ -291369,7 +291369,7 @@
         "char_298_susuro"
       ],
       "charId": "char_298_susuro",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_298_susuro",
           "voiceLangType": "CN_MANDARIN",
@@ -291405,7 +291405,7 @@
         "char_181_flower"
       ],
       "charId": "char_181_flower",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_181_flower",
           "voiceLangType": "CN_MANDARIN",
@@ -291441,7 +291441,7 @@
         "char_385_finlpp"
       ],
       "charId": "char_385_finlpp",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_385_finlpp",
           "voiceLangType": "CN_MANDARIN",
@@ -291477,7 +291477,7 @@
         "char_199_yak"
       ],
       "charId": "char_199_yak",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_199_yak",
           "voiceLangType": "CN_MANDARIN",
@@ -291513,7 +291513,7 @@
         "char_150_snakek"
       ],
       "charId": "char_150_snakek",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_150_snakek",
           "voiceLangType": "CN_MANDARIN",
@@ -291549,7 +291549,7 @@
         "char_381_bubble"
       ],
       "charId": "char_381_bubble",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_381_bubble",
           "voiceLangType": "CN_MANDARIN",
@@ -291585,7 +291585,7 @@
         "char_196_sunbr"
       ],
       "charId": "char_196_sunbr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_196_sunbr",
           "voiceLangType": "CN_MANDARIN",
@@ -291628,7 +291628,7 @@
         "char_260_durnar"
       ],
       "charId": "char_260_durnar",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_260_durnar",
           "voiceLangType": "CN_MANDARIN",
@@ -291664,7 +291664,7 @@
         "char_110_deepcl"
       ],
       "charId": "char_110_deepcl",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_110_deepcl",
           "voiceLangType": "CN_MANDARIN",
@@ -291700,7 +291700,7 @@
         "char_183_skgoat"
       ],
       "charId": "char_183_skgoat",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_183_skgoat",
           "voiceLangType": "CN_MANDARIN",
@@ -291736,7 +291736,7 @@
         "char_258_podego"
       ],
       "charId": "char_258_podego",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_258_podego",
           "voiceLangType": "CN_MANDARIN",
@@ -291772,7 +291772,7 @@
         "char_484_robrta"
       ],
       "charId": "char_484_robrta",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_484_robrta",
           "voiceLangType": "CN_MANDARIN",
@@ -291808,7 +291808,7 @@
         "char_355_ethan"
       ],
       "charId": "char_355_ethan",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_355_ethan",
           "voiceLangType": "CN_MANDARIN",
@@ -291844,7 +291844,7 @@
         "char_277_sqrrel"
       ],
       "charId": "char_277_sqrrel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_277_sqrrel",
           "voiceLangType": "CN_MANDARIN",
@@ -291880,7 +291880,7 @@
         "char_128_plosis"
       ],
       "charId": "char_128_plosis",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_128_plosis",
           "voiceLangType": "CN_MANDARIN",
@@ -291916,7 +291916,7 @@
         "char_275_breeze"
       ],
       "charId": "char_275_breeze",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_275_breeze",
           "voiceLangType": "CN_MANDARIN",
@@ -291952,7 +291952,7 @@
         "char_115_headbr"
       ],
       "charId": "char_115_headbr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_115_headbr",
           "voiceLangType": "CN_MANDARIN",
@@ -291996,7 +291996,7 @@
         "char_102_texas_ITA"
       ],
       "charId": "char_102_texas",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_102_texas",
           "voiceLangType": "CN_MANDARIN",
@@ -292039,7 +292039,7 @@
         "char_349_chiave"
       ],
       "charId": "char_349_chiave",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_349_chiave",
           "voiceLangType": "CN_MANDARIN",
@@ -292075,7 +292075,7 @@
         "char_220_grani"
       ],
       "charId": "char_220_grani",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_220_grani",
           "voiceLangType": "CN_MANDARIN",
@@ -292111,7 +292111,7 @@
         "char_261_sddrag"
       ],
       "charId": "char_261_sddrag",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_261_sddrag",
           "voiceLangType": "CN_MANDARIN",
@@ -292147,7 +292147,7 @@
         "char_401_elysm"
       ],
       "charId": "char_401_elysm",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_401_elysm",
           "voiceLangType": "CN_MANDARIN",
@@ -292191,7 +292191,7 @@
         "char_308_swire_CN_TOPOLECT"
       ],
       "charId": "char_308_swire",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_308_swire",
           "voiceLangType": "CN_MANDARIN",
@@ -292234,7 +292234,7 @@
         "char_265_sophia"
       ],
       "charId": "char_265_sophia",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_265_sophia",
           "voiceLangType": "CN_MANDARIN",
@@ -292270,7 +292270,7 @@
         "char_106_franka"
       ],
       "charId": "char_106_franka",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_106_franka",
           "voiceLangType": "CN_MANDARIN",
@@ -292306,7 +292306,7 @@
         "char_131_flameb"
       ],
       "charId": "char_131_flameb",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_131_flameb",
           "voiceLangType": "CN_MANDARIN",
@@ -292342,7 +292342,7 @@
         "char_155_tiger"
       ],
       "charId": "char_155_tiger",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_155_tiger",
           "voiceLangType": "CN_MANDARIN",
@@ -292378,7 +292378,7 @@
         "char_415_flint"
       ],
       "charId": "char_415_flint",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_415_flint",
           "voiceLangType": "CN_MANDARIN",
@@ -292415,7 +292415,7 @@
         "char_140_whitew_ITA"
       ],
       "charId": "char_140_whitew",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_140_whitew",
           "voiceLangType": "CN_MANDARIN",
@@ -292458,7 +292458,7 @@
         "char_294_ayer"
       ],
       "charId": "char_294_ayer",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_294_ayer",
           "voiceLangType": "CN_MANDARIN",
@@ -292494,7 +292494,7 @@
         "char_252_bibeak"
       ],
       "charId": "char_252_bibeak",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_252_bibeak",
           "voiceLangType": "CN_MANDARIN",
@@ -292530,7 +292530,7 @@
         "char_459_tachak"
       ],
       "charId": "char_459_tachak",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_459_tachak",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -292544,7 +292544,7 @@
         "char_143_ghost"
       ],
       "charId": "char_143_ghost",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_143_ghost",
           "voiceLangType": "CN_MANDARIN",
@@ -292580,7 +292580,7 @@
         "char_356_broca"
       ],
       "charId": "char_356_broca",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_356_broca",
           "voiceLangType": "CN_MANDARIN",
@@ -292616,7 +292616,7 @@
         "char_230_savage"
       ],
       "charId": "char_230_savage",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_230_savage",
           "voiceLangType": "CN_MANDARIN",
@@ -292652,7 +292652,7 @@
         "char_274_astesi"
       ],
       "charId": "char_274_astesi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_274_astesi",
           "voiceLangType": "CN_MANDARIN",
@@ -292688,7 +292688,7 @@
         "char_333_sidero"
       ],
       "charId": "char_333_sidero",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_333_sidero",
           "voiceLangType": "CN_MANDARIN",
@@ -292724,7 +292724,7 @@
         "char_1001_amiya2"
       ],
       "charId": "char_002_amiya",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1001_amiya2",
           "voiceLangType": "CN_MANDARIN",
@@ -292760,7 +292760,7 @@
         "char_475_akafyu"
       ],
       "charId": "char_475_akafyu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_475_akafyu",
           "voiceLangType": "CN_MANDARIN",
@@ -292796,7 +292796,7 @@
         "char_421_crow"
       ],
       "charId": "char_421_crow",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_421_crow",
           "voiceLangType": "CN_MANDARIN",
@@ -292832,7 +292832,7 @@
         "char_486_takila"
       ],
       "charId": "char_486_takila",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_486_takila",
           "voiceLangType": "CN_MANDARIN",
@@ -292868,7 +292868,7 @@
         "char_129_bluep"
       ],
       "charId": "char_129_bluep",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_129_bluep",
           "voiceLangType": "CN_MANDARIN",
@@ -292904,7 +292904,7 @@
         "char_204_platnm"
       ],
       "charId": "char_204_platnm",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_204_platnm",
           "voiceLangType": "CN_MANDARIN",
@@ -292940,7 +292940,7 @@
         "char_367_swllow"
       ],
       "charId": "char_367_swllow",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_367_swllow",
           "voiceLangType": "CN_MANDARIN",
@@ -292976,7 +292976,7 @@
         "char_365_aprl"
       ],
       "charId": "char_365_aprl",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_365_aprl",
           "voiceLangType": "CN_MANDARIN",
@@ -293012,7 +293012,7 @@
         "char_219_meteo"
       ],
       "charId": "char_219_meteo",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_219_meteo",
           "voiceLangType": "CN_MANDARIN",
@@ -293048,7 +293048,7 @@
         "char_379_sesa"
       ],
       "charId": "char_379_sesa",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_379_sesa",
           "voiceLangType": "CN_MANDARIN",
@@ -293084,7 +293084,7 @@
         "char_279_excu"
       ],
       "charId": "char_279_excu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_279_excu",
           "voiceLangType": "CN_MANDARIN",
@@ -293120,7 +293120,7 @@
         "char_346_aosta"
       ],
       "charId": "char_346_aosta",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_346_aosta",
           "voiceLangType": "CN_MANDARIN",
@@ -293156,7 +293156,7 @@
         "char_002_amiya"
       ],
       "charId": "char_002_amiya",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_002_amiya",
           "voiceLangType": "CN_MANDARIN",
@@ -293192,7 +293192,7 @@
         "char_164_nightm"
       ],
       "charId": "char_164_nightm",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_164_nightm",
           "voiceLangType": "CN_MANDARIN",
@@ -293228,7 +293228,7 @@
         "char_405_absin"
       ],
       "charId": "char_405_absin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_405_absin",
           "voiceLangType": "CN_MANDARIN",
@@ -293271,7 +293271,7 @@
         "char_411_tomimi"
       ],
       "charId": "char_411_tomimi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_411_tomimi",
           "voiceLangType": "CN_MANDARIN",
@@ -293307,7 +293307,7 @@
         "char_166_skfire"
       ],
       "charId": "char_166_skfire",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_166_skfire",
           "voiceLangType": "CN_MANDARIN",
@@ -293343,7 +293343,7 @@
         "char_306_leizi"
       ],
       "charId": "char_306_leizi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_306_leizi",
           "voiceLangType": "CN_MANDARIN",
@@ -293379,7 +293379,7 @@
         "char_344_beewax"
       ],
       "charId": "char_344_beewax",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_344_beewax",
           "voiceLangType": "CN_MANDARIN",
@@ -293415,7 +293415,7 @@
         "char_388_mint"
       ],
       "charId": "char_388_mint",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_388_mint",
           "voiceLangType": "CN_MANDARIN",
@@ -293451,7 +293451,7 @@
         "char_338_iris"
       ],
       "charId": "char_338_iris",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_338_iris",
           "voiceLangType": "CN_MANDARIN",
@@ -293487,7 +293487,7 @@
         "char_373_lionhd"
       ],
       "charId": "char_373_lionhd",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_373_lionhd",
           "voiceLangType": "CN_MANDARIN",
@@ -293523,7 +293523,7 @@
         "char_1011_lava2"
       ],
       "charId": "char_1011_lava2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1011_lava2",
           "voiceLangType": "CN_MANDARIN",
@@ -293559,7 +293559,7 @@
         "char_242_otter"
       ],
       "charId": "char_242_otter",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_242_otter",
           "voiceLangType": "CN_MANDARIN",
@@ -293595,7 +293595,7 @@
         "char_336_folivo"
       ],
       "charId": "char_336_folivo",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_336_folivo",
           "voiceLangType": "CN_MANDARIN",
@@ -293631,7 +293631,7 @@
         "char_108_silent"
       ],
       "charId": "char_108_silent",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_108_silent",
           "voiceLangType": "CN_MANDARIN",
@@ -293667,7 +293667,7 @@
         "char_171_bldsk"
       ],
       "charId": "char_171_bldsk",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_171_bldsk",
           "voiceLangType": "CN_MANDARIN",
@@ -293703,7 +293703,7 @@
         "char_345_folnic"
       ],
       "charId": "char_345_folnic",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_345_folnic",
           "voiceLangType": "CN_MANDARIN",
@@ -293739,7 +293739,7 @@
         "char_402_tuye"
       ],
       "charId": "char_402_tuye",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_402_tuye",
           "voiceLangType": "CN_MANDARIN",
@@ -293775,7 +293775,7 @@
         "char_348_ceylon"
       ],
       "charId": "char_348_ceylon",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_348_ceylon",
           "voiceLangType": "CN_MANDARIN",
@@ -293811,7 +293811,7 @@
         "char_436_whispr"
       ],
       "charId": "char_436_whispr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_436_whispr",
           "voiceLangType": "CN_MANDARIN",
@@ -293848,7 +293848,7 @@
         "char_473_mberry_CN_TOPOLECT"
       ],
       "charId": "char_473_mberry",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_473_mberry",
           "voiceLangType": "CN_MANDARIN",
@@ -293891,7 +293891,7 @@
         "char_148_nearl"
       ],
       "charId": "char_148_nearl",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_148_nearl",
           "voiceLangType": "CN_MANDARIN",
@@ -293928,7 +293928,7 @@
         "char_226_hmau_CN_TOPOLECT"
       ],
       "charId": "char_226_hmau",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_226_hmau",
           "voiceLangType": "CN_MANDARIN",
@@ -293971,7 +293971,7 @@
         "char_144_red"
       ],
       "charId": "char_144_red",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_144_red",
           "voiceLangType": "CN_MANDARIN",
@@ -294008,7 +294008,7 @@
         "char_243_waaifu_CN_TOPOLECT"
       ],
       "charId": "char_243_waaifu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_243_waaifu",
           "voiceLangType": "CN_MANDARIN",
@@ -294051,7 +294051,7 @@
         "char_214_kafka"
       ],
       "charId": "char_214_kafka",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_214_kafka",
           "voiceLangType": "CN_MANDARIN",
@@ -294088,7 +294088,7 @@
         "char_455_nothin_CN_TOPOLECT"
       ],
       "charId": "char_455_nothin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_455_nothin",
           "voiceLangType": "CN_MANDARIN",
@@ -294131,7 +294131,7 @@
         "char_107_liskam"
       ],
       "charId": "char_107_liskam",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_107_liskam",
           "voiceLangType": "CN_MANDARIN",
@@ -294167,7 +294167,7 @@
         "char_201_moeshd"
       ],
       "charId": "char_201_moeshd",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_201_moeshd",
           "voiceLangType": "CN_MANDARIN",
@@ -294203,7 +294203,7 @@
         "char_325_bison"
       ],
       "charId": "char_325_bison",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_325_bison",
           "voiceLangType": "CN_MANDARIN",
@@ -294239,7 +294239,7 @@
         "char_457_blitz"
       ],
       "charId": "char_457_blitz",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_457_blitz",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -294253,7 +294253,7 @@
         "char_304_zebra"
       ],
       "charId": "char_304_zebra",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_304_zebra",
           "voiceLangType": "CN_MANDARIN",
@@ -294289,7 +294289,7 @@
         "char_163_hpsts"
       ],
       "charId": "char_163_hpsts",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_163_hpsts",
           "voiceLangType": "CN_MANDARIN",
@@ -294325,7 +294325,7 @@
         "char_378_asbest"
       ],
       "charId": "char_378_asbest",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_378_asbest",
           "voiceLangType": "CN_MANDARIN",
@@ -294361,7 +294361,7 @@
         "char_431_ashlok"
       ],
       "charId": "char_431_ashlok",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_431_ashlok",
           "voiceLangType": "CN_MANDARIN",
@@ -294397,7 +294397,7 @@
         "char_145_prove"
       ],
       "charId": "char_145_prove",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_145_prove",
           "voiceLangType": "CN_MANDARIN",
@@ -294433,7 +294433,7 @@
         "char_158_milu"
       ],
       "charId": "char_158_milu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_158_milu",
           "voiceLangType": "CN_MANDARIN",
@@ -294469,7 +294469,7 @@
         "char_218_cuttle"
       ],
       "charId": "char_218_cuttle",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_218_cuttle",
           "voiceLangType": "CN_MANDARIN",
@@ -294505,7 +294505,7 @@
         "char_363_toddi"
       ],
       "charId": "char_363_toddi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_363_toddi",
           "voiceLangType": "CN_MANDARIN",
@@ -294541,7 +294541,7 @@
         "char_173_slchan"
       ],
       "charId": "char_173_slchan",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_173_slchan",
           "voiceLangType": "CN_MANDARIN",
@@ -294578,7 +294578,7 @@
         "char_383_snsant_CN_TOPOLECT"
       ],
       "charId": "char_383_snsant",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_383_snsant",
           "voiceLangType": "CN_MANDARIN",
@@ -294621,7 +294621,7 @@
         "char_174_slbell"
       ],
       "charId": "char_174_slbell",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_174_slbell",
           "voiceLangType": "CN_MANDARIN",
@@ -294657,7 +294657,7 @@
         "char_254_vodfox"
       ],
       "charId": "char_254_vodfox",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_254_vodfox",
           "voiceLangType": "CN_MANDARIN",
@@ -294693,7 +294693,7 @@
         "char_195_glassb"
       ],
       "charId": "char_195_glassb",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_195_glassb",
           "voiceLangType": "CN_MANDARIN",
@@ -294736,7 +294736,7 @@
         "char_326_glacus"
       ],
       "charId": "char_326_glacus",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_326_glacus",
           "voiceLangType": "CN_MANDARIN",
@@ -294772,7 +294772,7 @@
         "char_101_sora"
       ],
       "charId": "char_101_sora",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_101_sora",
           "voiceLangType": "CN_MANDARIN",
@@ -294808,7 +294808,7 @@
         "char_343_tknogi"
       ],
       "charId": "char_343_tknogi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_343_tknogi",
           "voiceLangType": "CN_MANDARIN",
@@ -294844,7 +294844,7 @@
         "char_215_mantic"
       ],
       "charId": "char_215_mantic",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_215_mantic",
           "voiceLangType": "CN_MANDARIN",
@@ -294880,7 +294880,7 @@
         "char_478_kirara"
       ],
       "charId": "char_478_kirara",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_478_kirara",
           "voiceLangType": "CN_MANDARIN",
@@ -294917,7 +294917,7 @@
         "char_241_panda_CN_TOPOLECT"
       ],
       "charId": "char_241_panda",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_241_panda",
           "voiceLangType": "CN_MANDARIN",
@@ -294960,7 +294960,7 @@
         "char_451_robin"
       ],
       "charId": "char_451_robin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_451_robin",
           "voiceLangType": "CN_MANDARIN",
@@ -294996,7 +294996,7 @@
         "char_458_rfrost"
       ],
       "charId": "char_458_rfrost",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_458_rfrost",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -295010,7 +295010,7 @@
         "char_369_bena"
       ],
       "charId": "char_369_bena",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_369_bena",
           "voiceLangType": "CN_MANDARIN",
@@ -295046,7 +295046,7 @@
         "char_103_angel"
       ],
       "charId": "char_103_angel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_103_angel",
           "voiceLangType": "CN_MANDARIN",
@@ -295082,7 +295082,7 @@
         "char_332_archet"
       ],
       "charId": "char_332_archet",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_332_archet",
           "voiceLangType": "CN_MANDARIN",
@@ -295118,7 +295118,7 @@
         "char_456_ash"
       ],
       "charId": "char_456_ash",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_456_ash",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -295132,7 +295132,7 @@
         "char_340_shwaz"
       ],
       "charId": "char_340_shwaz",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_340_shwaz",
           "voiceLangType": "CN_MANDARIN",
@@ -295168,7 +295168,7 @@
         "char_430_fartth"
       ],
       "charId": "char_430_fartth",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_430_fartth",
           "voiceLangType": "CN_MANDARIN",
@@ -295204,7 +295204,7 @@
         "char_113_cqbw"
       ],
       "charId": "char_113_cqbw",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_113_cqbw",
           "voiceLangType": "CN_MANDARIN",
@@ -295240,7 +295240,7 @@
         "char_197_poca"
       ],
       "charId": "char_197_poca",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_197_poca",
           "voiceLangType": "CN_MANDARIN",
@@ -295283,7 +295283,7 @@
         "char_391_rosmon"
       ],
       "charId": "char_391_rosmon",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_391_rosmon",
           "voiceLangType": "CN_MANDARIN",
@@ -295320,7 +295320,7 @@
         "char_1013_chen2_CN_TOPOLECT"
       ],
       "charId": "char_1013_chen2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1013_chen2",
           "voiceLangType": "CN_MANDARIN",
@@ -295363,7 +295363,7 @@
         "char_112_siege"
       ],
       "charId": "char_112_siege",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_112_siege",
           "voiceLangType": "CN_MANDARIN",
@@ -295399,7 +295399,7 @@
         "char_222_bpipe"
       ],
       "charId": "char_222_bpipe",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_222_bpipe",
           "voiceLangType": "CN_MANDARIN",
@@ -295435,7 +295435,7 @@
         "char_479_sleach"
       ],
       "charId": "char_479_sleach",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_479_sleach",
           "voiceLangType": "CN_MANDARIN",
@@ -295471,7 +295471,7 @@
         "char_362_saga"
       ],
       "charId": "char_362_saga",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_362_saga",
           "voiceLangType": "CN_MANDARIN",
@@ -295507,7 +295507,7 @@
         "char_134_ifrit"
       ],
       "charId": "char_134_ifrit",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_134_ifrit",
           "voiceLangType": "CN_MANDARIN",
@@ -295543,7 +295543,7 @@
         "char_213_mostma"
       ],
       "charId": "char_213_mostma",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_213_mostma",
           "voiceLangType": "CN_MANDARIN",
@@ -295579,7 +295579,7 @@
         "char_180_amgoat"
       ],
       "charId": "char_180_amgoat",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_180_amgoat",
           "voiceLangType": "CN_MANDARIN",
@@ -295615,7 +295615,7 @@
         "char_2013_cerber"
       ],
       "charId": "char_2013_cerber",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2013_cerber",
           "voiceLangType": "CN_MANDARIN",
@@ -295652,7 +295652,7 @@
         "char_2015_dusk_CN_TOPOLECT"
       ],
       "charId": "char_2015_dusk",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2015_dusk",
           "voiceLangType": "CN_MANDARIN",
@@ -295695,7 +295695,7 @@
         "char_472_pasngr"
       ],
       "charId": "char_472_pasngr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_472_pasngr",
           "voiceLangType": "CN_MANDARIN",
@@ -295731,7 +295731,7 @@
         "char_426_billro"
       ],
       "charId": "char_426_billro",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_426_billro",
           "voiceLangType": "CN_MANDARIN",
@@ -295767,7 +295767,7 @@
         "char_291_aglina"
       ],
       "charId": "char_291_aglina",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_291_aglina",
           "voiceLangType": "CN_MANDARIN",
@@ -295803,7 +295803,7 @@
         "char_358_lisa"
       ],
       "charId": "char_358_lisa",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_358_lisa",
           "voiceLangType": "CN_MANDARIN",
@@ -295839,7 +295839,7 @@
         "char_248_mgllan"
       ],
       "charId": "char_248_mgllan",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_248_mgllan",
           "voiceLangType": "CN_MANDARIN",
@@ -295875,7 +295875,7 @@
         "char_1012_skadi2"
       ],
       "charId": "char_1012_skadi2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1012_skadi2",
           "voiceLangType": "CN_MANDARIN",
@@ -295911,7 +295911,7 @@
         "char_250_phatom"
       ],
       "charId": "char_250_phatom",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_250_phatom",
           "voiceLangType": "CN_MANDARIN",
@@ -295954,7 +295954,7 @@
         "char_400_weedy"
       ],
       "charId": "char_400_weedy",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_400_weedy",
           "voiceLangType": "CN_MANDARIN",
@@ -295998,7 +295998,7 @@
         "char_225_haak_CN_TOPOLECT"
       ],
       "charId": "char_225_haak",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_225_haak",
           "voiceLangType": "CN_MANDARIN",
@@ -296041,7 +296041,7 @@
         "char_474_glady"
       ],
       "charId": "char_474_glady",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_474_glady",
           "voiceLangType": "CN_MANDARIN",
@@ -296077,7 +296077,7 @@
         "char_437_mizuki"
       ],
       "charId": "char_437_mizuki",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_437_mizuki",
           "voiceLangType": "CN_MANDARIN",
@@ -296113,7 +296113,7 @@
         "char_147_shining"
       ],
       "charId": "char_147_shining",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_147_shining",
           "voiceLangType": "CN_MANDARIN",
@@ -296149,7 +296149,7 @@
         "char_179_cgbird"
       ],
       "charId": "char_179_cgbird",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_179_cgbird",
           "voiceLangType": "CN_MANDARIN",
@@ -296185,7 +296185,7 @@
         "char_003_kalts"
       ],
       "charId": "char_003_kalts",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_003_kalts",
           "voiceLangType": "CN_MANDARIN",
@@ -296222,7 +296222,7 @@
         "char_136_hsguma_CN_TOPOLECT"
       ],
       "charId": "char_136_hsguma",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_136_hsguma",
           "voiceLangType": "CN_MANDARIN",
@@ -296265,7 +296265,7 @@
         "char_202_demkni"
       ],
       "charId": "char_202_demkni",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_202_demkni",
           "voiceLangType": "CN_MANDARIN",
@@ -296301,7 +296301,7 @@
         "char_423_blemsh"
       ],
       "charId": "char_423_blemsh",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_423_blemsh",
           "voiceLangType": "CN_MANDARIN",
@@ -296338,7 +296338,7 @@
         "char_2014_nian_CN_TOPOLECT"
       ],
       "charId": "char_2014_nian",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2014_nian",
           "voiceLangType": "CN_MANDARIN",
@@ -296381,7 +296381,7 @@
         "char_311_mudrok"
       ],
       "charId": "char_311_mudrok",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_311_mudrok",
           "voiceLangType": "CN_MANDARIN",
@@ -296417,7 +296417,7 @@
         "char_416_zumama"
       ],
       "charId": "char_416_zumama",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_416_zumama",
           "voiceLangType": "CN_MANDARIN",
@@ -296453,7 +296453,7 @@
         "char_263_skadi"
       ],
       "charId": "char_263_skadi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_263_skadi",
           "voiceLangType": "CN_MANDARIN",
@@ -296489,7 +296489,7 @@
         "char_264_f12yin"
       ],
       "charId": "char_264_f12yin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_264_f12yin",
           "voiceLangType": "CN_MANDARIN",
@@ -296525,7 +296525,7 @@
         "char_172_svrash"
       ],
       "charId": "char_172_svrash",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_172_svrash",
           "voiceLangType": "CN_MANDARIN",
@@ -296561,7 +296561,7 @@
         "char_293_thorns"
       ],
       "charId": "char_293_thorns",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_293_thorns",
           "voiceLangType": "CN_MANDARIN",
@@ -296605,7 +296605,7 @@
         "char_010_chen_CN_TOPOLECT"
       ],
       "charId": "char_010_chen",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_010_chen",
           "voiceLangType": "CN_MANDARIN",
@@ -296648,7 +296648,7 @@
         "char_017_huang"
       ],
       "charId": "char_017_huang",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_017_huang",
           "voiceLangType": "CN_MANDARIN",
@@ -296684,7 +296684,7 @@
         "char_350_surtr"
       ],
       "charId": "char_350_surtr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_350_surtr",
           "voiceLangType": "CN_MANDARIN",
@@ -296720,7 +296720,7 @@
         "char_188_helage"
       ],
       "charId": "char_188_helage",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_188_helage",
           "voiceLangType": "CN_MANDARIN",
@@ -296763,7 +296763,7 @@
         "char_485_pallas"
       ],
       "charId": "char_485_pallas",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_485_pallas",
           "voiceLangType": "CN_MANDARIN",
@@ -296799,7 +296799,7 @@
         "char_1014_nearl2"
       ],
       "charId": "char_1014_nearl2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1014_nearl2",
           "voiceLangType": "CN_MANDARIN",
@@ -296835,7 +296835,7 @@
         "char_420_flamtl"
       ],
       "charId": "char_420_flamtl",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_420_flamtl",
           "voiceLangType": "CN_MANDARIN",
@@ -296871,7 +296871,7 @@
         "char_496_wildmn"
       ],
       "charId": "char_496_wildmn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_496_wildmn",
           "voiceLangType": "CN_MANDARIN",
@@ -296907,7 +296907,7 @@
         "char_4000_jnight"
       ],
       "charId": "char_4000_jnight",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4000_jnight",
           "voiceLangType": "CN_MANDARIN",
@@ -296943,7 +296943,7 @@
         "char_449_glider"
       ],
       "charId": "char_449_glider",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_449_glider",
           "voiceLangType": "CN_MANDARIN",
@@ -296979,7 +296979,7 @@
         "char_4004_pudd"
       ],
       "charId": "char_4004_pudd",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4004_pudd",
           "voiceLangType": "CN_MANDARIN",
@@ -297015,7 +297015,7 @@
         "char_489_serum"
       ],
       "charId": "char_489_serum",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_489_serum",
           "voiceLangType": "CN_MANDARIN",
@@ -297051,7 +297051,7 @@
         "char_206_gnosis"
       ],
       "charId": "char_206_gnosis",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_206_gnosis",
           "voiceLangType": "CN_MANDARIN",
@@ -297087,7 +297087,7 @@
         "char_422_aurora"
       ],
       "charId": "char_422_aurora",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_422_aurora",
           "voiceLangType": "CN_MANDARIN",
@@ -297123,7 +297123,7 @@
         "char_4019_ncdeer"
       ],
       "charId": "char_4019_ncdeer",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4019_ncdeer",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -297137,7 +297137,7 @@
         "char_4013_kjera"
       ],
       "charId": "char_4013_kjera",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4013_kjera",
           "voiceLangType": "CN_MANDARIN",
@@ -297173,7 +297173,7 @@
         "char_4025_aprot2"
       ],
       "charId": "char_4025_aprot2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4025_aprot2",
           "voiceLangType": "CN_MANDARIN",
@@ -297210,7 +297210,7 @@
         "char_2023_ling_CN_TOPOLECT"
       ],
       "charId": "char_2023_ling",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2023_ling",
           "voiceLangType": "CN_MANDARIN",
@@ -297254,7 +297254,7 @@
         "char_322_lmlee_CN_TOPOLECT"
       ],
       "charId": "char_322_lmlee",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_322_lmlee",
           "voiceLangType": "CN_MANDARIN",
@@ -297297,7 +297297,7 @@
         "char_476_blkngt"
       ],
       "charId": "char_476_blkngt",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_476_blkngt",
           "voiceLangType": "CN_MANDARIN",
@@ -297333,7 +297333,7 @@
         "char_1021_kroos2"
       ],
       "charId": "char_1021_kroos2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1021_kroos2",
           "voiceLangType": "CN_MANDARIN",
@@ -297369,7 +297369,7 @@
         "char_377_gdglow"
       ],
       "charId": "char_377_gdglow",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_377_gdglow",
           "voiceLangType": "CN_MANDARIN",
@@ -297405,7 +297405,7 @@
         "char_492_quercu"
       ],
       "charId": "char_492_quercu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_492_quercu",
           "voiceLangType": "CN_MANDARIN",
@@ -297441,7 +297441,7 @@
         "char_300_phenxi"
       ],
       "charId": "char_300_phenxi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_300_phenxi",
           "voiceLangType": "CN_MANDARIN",
@@ -297477,7 +297477,7 @@
         "char_4016_kazema"
       ],
       "charId": "char_4016_kazema",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4016_kazema",
           "voiceLangType": "CN_MANDARIN",
@@ -297513,7 +297513,7 @@
         "char_4036_forcer"
       ],
       "charId": "char_4036_forcer",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4036_forcer",
           "voiceLangType": "CN_MANDARIN",
@@ -297549,7 +297549,7 @@
         "char_4039_horn"
       ],
       "charId": "char_4039_horn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4039_horn",
           "voiceLangType": "CN_MANDARIN",
@@ -297585,7 +297585,7 @@
         "char_4040_rockr"
       ],
       "charId": "char_4040_rockr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4040_rockr",
           "voiceLangType": "CN_MANDARIN",
@@ -297621,7 +297621,7 @@
         "char_4041_chnut"
       ],
       "charId": "char_4041_chnut",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4041_chnut",
           "voiceLangType": "CN_MANDARIN",
@@ -297657,7 +297657,7 @@
         "char_4045_heidi"
       ],
       "charId": "char_4045_heidi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4045_heidi",
           "voiceLangType": "CN_MANDARIN",
@@ -297693,7 +297693,7 @@
         "char_1023_ghost2"
       ],
       "charId": "char_1023_ghost2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1023_ghost2",
           "voiceLangType": "CN_MANDARIN",
@@ -297729,7 +297729,7 @@
         "char_4009_irene"
       ],
       "charId": "char_4009_irene",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4009_irene",
           "voiceLangType": "CN_MANDARIN",
@@ -297772,7 +297772,7 @@
         "char_4042_lumen"
       ],
       "charId": "char_4042_lumen",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4042_lumen",
           "voiceLangType": "CN_MANDARIN",
@@ -297815,7 +297815,7 @@
         "char_433_windft"
       ],
       "charId": "char_433_windft",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_433_windft",
           "voiceLangType": "CN_MANDARIN",
@@ -297851,7 +297851,7 @@
         "char_4043_erato"
       ],
       "charId": "char_4043_erato",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4043_erato",
           "voiceLangType": "CN_MANDARIN",
@@ -297887,7 +297887,7 @@
         "char_4046_ebnhlz"
       ],
       "charId": "char_4046_ebnhlz",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4046_ebnhlz",
           "voiceLangType": "CN_MANDARIN",
@@ -297930,7 +297930,7 @@
         "char_1024_hbisc2"
       ],
       "charId": "char_1024_hbisc2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1024_hbisc2",
           "voiceLangType": "CN_MANDARIN",
@@ -297966,7 +297966,7 @@
         "char_4047_pianst"
       ],
       "charId": "char_4047_pianst",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4047_pianst",
           "voiceLangType": "CN_MANDARIN",
@@ -298009,7 +298009,7 @@
         "char_512_aprot"
       ],
       "charId": "char_512_aprot",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_512_aprot",
           "voiceLangType": "CN_MANDARIN",
@@ -298031,7 +298031,7 @@
         "char_4048_doroth"
       ],
       "charId": "char_4048_doroth",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4048_doroth",
           "voiceLangType": "CN_MANDARIN",
@@ -298067,7 +298067,7 @@
         "char_1027_greyy2"
       ],
       "charId": "char_1027_greyy2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1027_greyy2",
           "voiceLangType": "CN_MANDARIN",
@@ -298103,7 +298103,7 @@
         "char_135_halo"
       ],
       "charId": "char_135_halo",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_135_halo",
           "voiceLangType": "CN_MANDARIN",
@@ -298139,7 +298139,7 @@
         "char_1026_gvial2"
       ],
       "charId": "char_1026_gvial2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1026_gvial2",
           "voiceLangType": "CN_MANDARIN",
@@ -298175,7 +298175,7 @@
         "char_4055_bgsnow"
       ],
       "charId": "char_4055_bgsnow",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4055_bgsnow",
           "voiceLangType": "CN_MANDARIN",
@@ -298211,7 +298211,7 @@
         "char_497_ctable"
       ],
       "charId": "char_497_ctable",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_497_ctable",
           "voiceLangType": "CN_MANDARIN",
@@ -298247,7 +298247,7 @@
         "char_4054_malist"
       ],
       "charId": "char_4054_malist",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4054_malist",
           "voiceLangType": "CN_MANDARIN",
@@ -298283,7 +298283,7 @@
         "char_511_asnipe"
       ],
       "charId": "char_511_asnipe",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_511_asnipe",
           "voiceLangType": "CN_MANDARIN",
@@ -298319,7 +298319,7 @@
         "char_510_amedic"
       ],
       "charId": "char_510_amedic",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_510_amedic",
           "voiceLangType": "CN_MANDARIN",
@@ -298355,7 +298355,7 @@
         "char_508_aguard"
       ],
       "charId": "char_508_aguard",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_508_aguard",
           "voiceLangType": "CN_MANDARIN",
@@ -298391,7 +298391,7 @@
         "char_509_acast"
       ],
       "charId": "char_509_acast",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_509_acast",
           "voiceLangType": "CN_MANDARIN",
@@ -298427,7 +298427,7 @@
         "char_4064_mlynar"
       ],
       "charId": "char_4064_mlynar",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4064_mlynar",
           "voiceLangType": "CN_MANDARIN",
@@ -298463,7 +298463,7 @@
         "char_4032_provs"
       ],
       "charId": "char_4032_provs",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4032_provs",
           "voiceLangType": "CN_MANDARIN",
@@ -298499,7 +298499,7 @@
         "char_4067_lolxh"
       ],
       "charId": "char_4067_lolxh",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4067_lolxh",
           "voiceLangType": "CN_MANDARIN",
@@ -298522,7 +298522,7 @@
         "char_513_apionr"
       ],
       "charId": "char_513_apionr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_513_apionr",
           "voiceLangType": "CN_MANDARIN",
@@ -298558,7 +298558,7 @@
         "char_4066_highmo"
       ],
       "charId": "char_4066_highmo",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4066_highmo",
           "voiceLangType": "CN_MANDARIN",
@@ -298594,7 +298594,7 @@
         "char_4071_peper"
       ],
       "charId": "char_4071_peper",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4071_peper",
           "voiceLangType": "CN_MANDARIN",
@@ -298630,7 +298630,7 @@
         "char_157_dagda"
       ],
       "charId": "char_157_dagda",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_157_dagda",
           "voiceLangType": "CN_MANDARIN",
@@ -298666,7 +298666,7 @@
         "char_4072_ironmn"
       ],
       "charId": "char_4072_ironmn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4072_ironmn",
           "voiceLangType": "CN_MANDARIN",
@@ -298702,7 +298702,7 @@
         "char_4062_totter"
       ],
       "charId": "char_4062_totter",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4062_totter",
           "voiceLangType": "CN_MANDARIN",
@@ -298738,7 +298738,7 @@
         "char_4063_quartz"
       ],
       "charId": "char_4063_quartz",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4063_quartz",
           "voiceLangType": "CN_MANDARIN",
@@ -298774,7 +298774,7 @@
         "char_466_qanik"
       ],
       "charId": "char_466_qanik",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_466_qanik",
           "voiceLangType": "CN_MANDARIN",
@@ -298810,7 +298810,7 @@
         "char_4014_lunacu"
       ],
       "charId": "char_4014_lunacu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4014_lunacu",
           "voiceLangType": "CN_MANDARIN",
@@ -298847,7 +298847,7 @@
         "char_427_vigil_ITA"
       ],
       "charId": "char_427_vigil",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_427_vigil",
           "voiceLangType": "CN_MANDARIN",
@@ -298891,7 +298891,7 @@
         "char_4065_judge_ITA"
       ],
       "charId": "char_4065_judge",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4065_judge",
           "voiceLangType": "CN_MANDARIN",
@@ -298935,7 +298935,7 @@
         "char_1028_texas2_ITA"
       ],
       "charId": "char_1028_texas2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1028_texas2",
           "voiceLangType": "CN_MANDARIN",
@@ -298978,7 +298978,7 @@
         "char_297_hamoni"
       ],
       "charId": "char_297_hamoni",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_297_hamoni",
           "voiceLangType": "CN_MANDARIN",
@@ -299014,7 +299014,7 @@
         "char_4017_puzzle"
       ],
       "charId": "char_4017_puzzle",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4017_puzzle",
           "voiceLangType": "CN_MANDARIN",
@@ -299050,7 +299050,7 @@
         "char_1020_reed2"
       ],
       "charId": "char_1020_reed2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1020_reed2",
           "voiceLangType": "CN_MANDARIN",
@@ -299087,7 +299087,7 @@
         "char_4080_lin_CN_TOPOLECT"
       ],
       "charId": "char_4080_lin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4080_lin",
           "voiceLangType": "CN_MANDARIN",
@@ -299131,7 +299131,7 @@
         "char_2024_chyue_CN_TOPOLECT"
       ],
       "charId": "char_2024_chyue",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2024_chyue",
           "voiceLangType": "CN_MANDARIN",
@@ -299174,7 +299174,7 @@
         "char_4078_bdhkgt"
       ],
       "charId": "char_4078_bdhkgt",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4078_bdhkgt",
           "voiceLangType": "CN_MANDARIN",
@@ -299210,7 +299210,7 @@
         "char_493_firwhl"
       ],
       "charId": "char_493_firwhl",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_493_firwhl",
           "voiceLangType": "CN_MANDARIN",
@@ -299246,7 +299246,7 @@
         "char_4082_qiubai"
       ],
       "charId": "char_4082_qiubai",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4082_qiubai",
           "voiceLangType": "CN_MANDARIN",
@@ -299282,7 +299282,7 @@
         "char_4083_chimes"
       ],
       "charId": "char_4083_chimes",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4083_chimes",
           "voiceLangType": "CN_MANDARIN",
@@ -299318,7 +299318,7 @@
         "char_1029_yato2"
       ],
       "charId": "char_1029_yato2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1029_yato2",
           "voiceLangType": "CN_MANDARIN",
@@ -299354,7 +299354,7 @@
         "char_4077_palico"
       ],
       "charId": "char_4077_palico",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4077_palico",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -299368,7 +299368,7 @@
         "char_1030_noirc2"
       ],
       "charId": "char_1030_noirc2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1030_noirc2",
           "voiceLangType": "CN_MANDARIN",
@@ -299404,7 +299404,7 @@
         "char_4091_ulika"
       ],
       "charId": "char_4091_ulika",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4091_ulika",
           "voiceLangType": "CN_MANDARIN",
@@ -299440,7 +299440,7 @@
         "char_4087_ines"
       ],
       "charId": "char_4087_ines",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4087_ines",
           "voiceLangType": "CN_MANDARIN",
@@ -299476,7 +299476,7 @@
         "char_154_morgan"
       ],
       "charId": "char_154_morgan",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_154_morgan",
           "voiceLangType": "CN_MANDARIN",
@@ -299512,7 +299512,7 @@
         "char_464_cement"
       ],
       "charId": "char_464_cement",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_464_cement",
           "voiceLangType": "CN_MANDARIN",
@@ -299548,7 +299548,7 @@
         "char_491_humus"
       ],
       "charId": "char_491_humus",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_491_humus",
           "voiceLangType": "CN_MANDARIN",
@@ -299584,7 +299584,7 @@
         "char_1031_slent2"
       ],
       "charId": "char_1031_slent2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1031_slent2",
           "voiceLangType": "CN_MANDARIN",
@@ -299620,7 +299620,7 @@
         "char_4093_frston"
       ],
       "charId": "char_4093_frston",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4093_frston",
           "voiceLangType": "CN_MANDARIN",
@@ -299656,7 +299656,7 @@
         "char_4027_heyak"
       ],
       "charId": "char_4027_heyak",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4027_heyak",
           "voiceLangType": "CN_MANDARIN",
@@ -299692,7 +299692,7 @@
         "char_4006_melnte"
       ],
       "charId": "char_4006_melnte",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4006_melnte",
           "voiceLangType": "CN_MANDARIN",
@@ -299728,7 +299728,7 @@
         "char_249_mlyss"
       ],
       "charId": "char_249_mlyss",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_249_mlyss",
           "voiceLangType": "CN_MANDARIN",
@@ -299764,7 +299764,7 @@
         "char_1032_excu2"
       ],
       "charId": "char_1032_excu2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1032_excu2",
           "voiceLangType": "CN_MANDARIN",
@@ -299800,7 +299800,7 @@
         "char_498_inside"
       ],
       "charId": "char_498_inside",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_498_inside",
           "voiceLangType": "CN_MANDARIN",
@@ -299836,7 +299836,7 @@
         "char_4015_spuria"
       ],
       "charId": "char_4015_spuria",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4015_spuria",
           "voiceLangType": "CN_MANDARIN",
@@ -299872,7 +299872,7 @@
         "char_2012_typhon"
       ],
       "charId": "char_2012_typhon",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2012_typhon",
           "voiceLangType": "CN_MANDARIN",
@@ -299908,7 +299908,7 @@
         "char_341_sntlla"
       ],
       "charId": "char_341_sntlla",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_341_sntlla",
           "voiceLangType": "CN_MANDARIN",
@@ -299944,7 +299944,7 @@
         "char_4102_threye"
       ],
       "charId": "char_4102_threye",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4102_threye",
           "voiceLangType": "CN_MANDARIN",
@@ -299980,7 +299980,7 @@
         "char_4106_bryota"
       ],
       "charId": "char_4106_bryota",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4106_bryota",
           "voiceLangType": "CN_MANDARIN",
@@ -300017,7 +300017,7 @@
         "char_1033_swire2_CN_TOPOLECT"
       ],
       "charId": "char_1033_swire2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1033_swire2",
           "voiceLangType": "CN_MANDARIN",
@@ -300060,7 +300060,7 @@
         "char_488_buildr"
       ],
       "charId": "char_488_buildr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_488_buildr",
           "voiceLangType": "CN_MANDARIN",
@@ -300096,7 +300096,7 @@
         "char_1016_agoat2"
       ],
       "charId": "char_1016_agoat2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1016_agoat2",
           "voiceLangType": "CN_MANDARIN",
@@ -300132,7 +300132,7 @@
         "char_1034_jesca2"
       ],
       "charId": "char_1034_jesca2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1034_jesca2",
           "voiceLangType": "CN_MANDARIN",
@@ -300168,7 +300168,7 @@
         "char_4105_almond"
       ],
       "charId": "char_4105_almond",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4105_almond",
           "voiceLangType": "CN_MANDARIN",
@@ -300204,7 +300204,7 @@
         "char_4104_coldst"
       ],
       "charId": "char_4104_coldst",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4104_coldst",
           "voiceLangType": "CN_MANDARIN",
@@ -300240,7 +300240,7 @@
         "char_4088_hodrer"
       ],
       "charId": "char_4088_hodrer",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4088_hodrer",
           "voiceLangType": "CN_MANDARIN",
@@ -300276,7 +300276,7 @@
         "char_4110_delphn"
       ],
       "charId": "char_4110_delphn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4110_delphn",
           "voiceLangType": "CN_MANDARIN",
@@ -300312,7 +300312,7 @@
         "char_494_vendla"
       ],
       "charId": "char_494_vendla",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_494_vendla",
           "voiceLangType": "CN_MANDARIN",
@@ -300348,7 +300348,7 @@
         "char_4107_vrdant"
       ],
       "charId": "char_4107_vrdant",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4107_vrdant",
           "voiceLangType": "CN_MANDARIN",
@@ -300384,7 +300384,7 @@
         "char_245_cello"
       ],
       "charId": "char_245_cello",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_245_cello",
           "voiceLangType": "CN_MANDARIN",
@@ -300420,7 +300420,7 @@
         "char_4098_vvana"
       ],
       "charId": "char_4098_vvana",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4098_vvana",
           "voiceLangType": "CN_MANDARIN",
@@ -300463,7 +300463,7 @@
         "char_4011_lessng"
       ],
       "charId": "char_4011_lessng",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4011_lessng",
           "voiceLangType": "CN_MANDARIN",
@@ -300506,7 +300506,7 @@
         "char_4109_baslin"
       ],
       "charId": "char_4109_baslin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4109_baslin",
           "voiceLangType": "CN_MANDARIN",
@@ -300542,7 +300542,7 @@
         "char_499_kaitou"
       ],
       "charId": "char_499_kaitou",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_499_kaitou",
           "voiceLangType": "CN_MANDARIN",
@@ -300578,7 +300578,7 @@
         "char_4100_caper"
       ],
       "charId": "char_4100_caper",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4100_caper",
           "voiceLangType": "CN_MANDARIN",
@@ -300614,7 +300614,7 @@
         "char_194_leto"
       ],
       "charId": "char_194_leto",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_194_leto",
           "voiceLangType": "CN_MANDARIN",
@@ -300657,7 +300657,7 @@
         "char_4114_harold"
       ],
       "charId": "char_4114_harold",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4114_harold",
           "voiceLangType": "CN_MANDARIN",
@@ -300693,7 +300693,7 @@
         "char_4116_blkkgt"
       ],
       "charId": "char_4116_blkkgt",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4116_blkkgt",
           "voiceLangType": "CN_MANDARIN",
@@ -300729,7 +300729,7 @@
         "char_4081_warmy"
       ],
       "charId": "char_4081_warmy",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4081_warmy",
           "voiceLangType": "CN_MANDARIN",
@@ -300765,7 +300765,7 @@
         "char_4117_ray"
       ],
       "charId": "char_4117_ray",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4117_ray",
           "voiceLangType": "CN_MANDARIN",
@@ -300801,7 +300801,7 @@
         "char_4023_rfalcn"
       ],
       "charId": "char_4023_rfalcn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4023_rfalcn",
           "voiceLangType": "CN_MANDARIN",
@@ -300837,7 +300837,7 @@
         "char_4119_wanqin"
       ],
       "charId": "char_4119_wanqin",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4119_wanqin",
           "voiceLangType": "CN_MANDARIN",
@@ -300873,7 +300873,7 @@
         "char_4122_grabds"
       ],
       "charId": "char_4122_grabds",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4122_grabds",
           "voiceLangType": "CN_MANDARIN",
@@ -300910,7 +300910,7 @@
         "char_2025_shu_CN_TOPOLECT"
       ],
       "charId": "char_2025_shu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2025_shu",
           "voiceLangType": "CN_MANDARIN",
@@ -300954,7 +300954,7 @@
         "char_4121_zuole_CN_TOPOLECT"
       ],
       "charId": "char_4121_zuole",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4121_zuole",
           "voiceLangType": "CN_MANDARIN",
@@ -300997,7 +300997,7 @@
         "char_4123_ela"
       ],
       "charId": "char_4123_ela",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4123_ela",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301011,7 +301011,7 @@
         "char_4124_iana"
       ],
       "charId": "char_4124_iana",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4124_iana",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301025,7 +301025,7 @@
         "char_4125_rdoc"
       ],
       "charId": "char_4125_rdoc",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4125_rdoc",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301039,7 +301039,7 @@
         "char_4126_fuze"
       ],
       "charId": "char_4126_fuze",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4126_fuze",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301053,7 +301053,7 @@
         "char_446_aroma"
       ],
       "charId": "char_446_aroma",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_446_aroma",
           "voiceLangType": "CN_MANDARIN",
@@ -301089,7 +301089,7 @@
         "char_4130_luton"
       ],
       "charId": "char_4130_luton",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4130_luton",
           "voiceLangType": "CN_MANDARIN",
@@ -301125,7 +301125,7 @@
         "char_4131_odda"
       ],
       "charId": "char_4131_odda",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4131_odda",
           "voiceLangType": "CN_MANDARIN",
@@ -301161,7 +301161,7 @@
         "char_4132_ascln"
       ],
       "charId": "char_4132_ascln",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4132_ascln",
           "voiceLangType": "CN_MANDARIN",
@@ -301197,7 +301197,7 @@
         "char_1035_wisdel"
       ],
       "charId": "char_1035_wisdel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1035_wisdel",
           "voiceLangType": "CN_MANDARIN",
@@ -301233,7 +301233,7 @@
         "char_4133_logos"
       ],
       "charId": "char_4133_logos",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4133_logos",
           "voiceLangType": "CN_MANDARIN",
@@ -301269,7 +301269,7 @@
         "char_1036_fang2"
       ],
       "charId": "char_1036_fang2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1036_fang2",
           "voiceLangType": "CN_MANDARIN",
@@ -301305,7 +301305,7 @@
         "char_4136_phonor"
       ],
       "charId": "char_4136_phonor",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4136_phonor",
           "voiceLangType": "CN_MANDARIN",
@@ -301341,7 +301341,7 @@
         "char_4134_cetsyr"
       ],
       "charId": "char_4134_cetsyr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4134_cetsyr",
           "voiceLangType": "CN_MANDARIN",
@@ -301377,7 +301377,7 @@
         "char_1037_amiya3"
       ],
       "charId": "char_002_amiya",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1037_amiya3",
           "voiceLangType": "CN_MANDARIN",
@@ -301413,7 +301413,7 @@
         "char_4079_haini"
       ],
       "charId": "char_4079_haini",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4079_haini",
           "voiceLangType": "CN_MANDARIN",
@@ -301449,7 +301449,7 @@
         "char_4137_udflow"
       ],
       "charId": "char_4137_udflow",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4137_udflow",
           "voiceLangType": "CN_MANDARIN",
@@ -301485,7 +301485,7 @@
         "char_4145_ulpia"
       ],
       "charId": "char_4145_ulpia",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4145_ulpia",
           "voiceLangType": "CN_MANDARIN",
@@ -301521,7 +301521,7 @@
         "char_4146_nymph"
       ],
       "charId": "char_4146_nymph",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4146_nymph",
           "voiceLangType": "CN_MANDARIN",
@@ -301557,7 +301557,7 @@
         "char_4147_mitm"
       ],
       "charId": "char_4147_mitm",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4147_mitm",
           "voiceLangType": "CN_MANDARIN",
@@ -301593,7 +301593,7 @@
         "char_4151_tinman"
       ],
       "charId": "char_4151_tinman",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4151_tinman",
           "voiceLangType": "CN_MANDARIN",
@@ -301629,7 +301629,7 @@
         "char_4058_pepe"
       ],
       "charId": "char_4058_pepe",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4058_pepe",
           "voiceLangType": "CN_MANDARIN",
@@ -301665,7 +301665,7 @@
         "char_4138_narant"
       ],
       "charId": "char_4138_narant",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4138_narant",
           "voiceLangType": "CN_MANDARIN",
@@ -301701,7 +301701,7 @@
         "char_4139_papyrs"
       ],
       "charId": "char_4139_papyrs",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4139_papyrs",
           "voiceLangType": "CN_MANDARIN",
@@ -301737,7 +301737,7 @@
         "char_4140_lasher"
       ],
       "charId": "char_4140_lasher",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4140_lasher",
           "voiceLangType": "CN_MANDARIN",
@@ -301773,7 +301773,7 @@
         "char_4141_marcil"
       ],
       "charId": "char_4141_marcil",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4141_marcil",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301787,7 +301787,7 @@
         "char_4143_sensi"
       ],
       "charId": "char_4143_sensi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4143_sensi",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301801,7 +301801,7 @@
         "char_4144_chilc"
       ],
       "charId": "char_4144_chilc",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4144_chilc",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301815,7 +301815,7 @@
         "char_4142_laios"
       ],
       "charId": "char_4142_laios",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4142_laios",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -301829,7 +301829,7 @@
         "char_1019_siege2"
       ],
       "charId": "char_1019_siege2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1019_siege2",
           "voiceLangType": "CN_MANDARIN",
@@ -301865,7 +301865,7 @@
         "char_487_bobb"
       ],
       "charId": "char_487_bobb",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_487_bobb",
           "voiceLangType": "CN_MANDARIN",
@@ -301901,7 +301901,7 @@
         "char_4162_cathy"
       ],
       "charId": "char_4162_cathy",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4162_cathy",
           "voiceLangType": "CN_MANDARIN",
@@ -301938,7 +301938,7 @@
         "char_1038_whitw2_ITA"
       ],
       "charId": "char_1038_whitw2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1038_whitw2",
           "voiceLangType": "CN_MANDARIN",
@@ -301981,7 +301981,7 @@
         "char_1502_crosly"
       ],
       "charId": "char_1502_crosly",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1502_crosly",
           "voiceLangType": "CN_MANDARIN",
@@ -302025,7 +302025,7 @@
         "char_4026_vulpis_ITA"
       ],
       "charId": "char_4026_vulpis",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4026_vulpis",
           "voiceLangType": "CN_MANDARIN",
@@ -302068,7 +302068,7 @@
         "char_4148_philae"
       ],
       "charId": "char_4148_philae",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4148_philae",
           "voiceLangType": "CN_MANDARIN",
@@ -302105,7 +302105,7 @@
         "char_4155_talr_ITA"
       ],
       "charId": "char_4155_talr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4155_talr",
           "voiceLangType": "CN_MANDARIN",
@@ -302148,7 +302148,7 @@
         "char_4165_ctrail"
       ],
       "charId": "char_4165_ctrail",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4165_ctrail",
           "voiceLangType": "CN_MANDARIN",
@@ -302184,7 +302184,7 @@
         "char_1039_thorn2"
       ],
       "charId": "char_1039_thorn2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1039_thorn2",
           "voiceLangType": "CN_MANDARIN",
@@ -302227,7 +302227,7 @@
         "char_4163_rosesa"
       ],
       "charId": "char_4163_rosesa",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4163_rosesa",
           "voiceLangType": "CN_MANDARIN",
@@ -302270,7 +302270,7 @@
         "char_4164_tecno"
       ],
       "charId": "char_4164_tecno",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4164_tecno",
           "voiceLangType": "CN_MANDARIN",
@@ -302307,7 +302307,7 @@
         "char_2026_yu_CN_TOPOLECT"
       ],
       "charId": "char_2026_yu",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2026_yu",
           "voiceLangType": "CN_MANDARIN",
@@ -302350,7 +302350,7 @@
         "char_1040_blaze2"
       ],
       "charId": "char_1040_blaze2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1040_blaze2",
           "voiceLangType": "CN_MANDARIN",
@@ -302386,7 +302386,7 @@
         "char_4052_surfer"
       ],
       "charId": "char_4052_surfer",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4052_surfer",
           "voiceLangType": "CN_MANDARIN",
@@ -302422,7 +302422,7 @@
         "char_4172_xingzh"
       ],
       "charId": "char_4172_xingzh",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4172_xingzh",
           "voiceLangType": "CN_MANDARIN",
@@ -302458,7 +302458,7 @@
         "char_4010_etlchi"
       ],
       "charId": "char_4010_etlchi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4010_etlchi",
           "voiceLangType": "CN_MANDARIN",
@@ -302494,7 +302494,7 @@
         "char_4173_nowell"
       ],
       "charId": "char_4173_nowell",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4173_nowell",
           "voiceLangType": "CN_MANDARIN",
@@ -302530,7 +302530,7 @@
         "char_450_necras"
       ],
       "charId": "char_450_necras",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_450_necras",
           "voiceLangType": "CN_MANDARIN",
@@ -302566,7 +302566,7 @@
         "char_4171_wulfen"
       ],
       "charId": "char_4171_wulfen",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4171_wulfen",
           "voiceLangType": "CN_MANDARIN",
@@ -302602,7 +302602,7 @@
         "char_4177_brigid"
       ],
       "charId": "char_4177_brigid",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4177_brigid",
           "voiceLangType": "CN_MANDARIN",
@@ -302638,7 +302638,7 @@
         "char_4179_monstr"
       ],
       "charId": "char_4179_monstr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4179_monstr",
           "voiceLangType": "CN_MANDARIN",
@@ -302674,7 +302674,7 @@
         "char_4178_alanna"
       ],
       "charId": "char_4178_alanna",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4178_alanna",
           "voiceLangType": "CN_MANDARIN",
@@ -302710,7 +302710,7 @@
         "char_445_wscoot"
       ],
       "charId": "char_445_wscoot",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_445_wscoot",
           "voiceLangType": "CN_MANDARIN",
@@ -302746,7 +302746,7 @@
         "char_1041_angel2"
       ],
       "charId": "char_1041_angel2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1041_angel2",
           "voiceLangType": "CN_MANDARIN",
@@ -302782,7 +302782,7 @@
         "char_4193_lemuen"
       ],
       "charId": "char_4193_lemuen",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4193_lemuen",
           "voiceLangType": "CN_MANDARIN",
@@ -302818,7 +302818,7 @@
         "char_4194_rmixer"
       ],
       "charId": "char_4194_rmixer",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4194_rmixer",
           "voiceLangType": "CN_MANDARIN",
@@ -302854,7 +302854,7 @@
         "char_4187_graceb"
       ],
       "charId": "char_4187_graceb",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4187_graceb",
           "voiceLangType": "CN_MANDARIN",
@@ -302890,7 +302890,7 @@
         "char_4188_confes"
       ],
       "charId": "char_4188_confes",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4188_confes",
           "voiceLangType": "CN_MANDARIN",
@@ -302926,7 +302926,7 @@
         "char_1042_phatm2"
       ],
       "charId": "char_1042_phatm2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1042_phatm2",
           "voiceLangType": "CN_MANDARIN",
@@ -302969,7 +302969,7 @@
         "char_4191_tippi"
       ],
       "charId": "char_4191_tippi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4191_tippi",
           "voiceLangType": "CN_MANDARIN",
@@ -303005,7 +303005,7 @@
         "char_4198_christ"
       ],
       "charId": "char_4198_christ",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4198_christ",
           "voiceLangType": "CN_MANDARIN",
@@ -303027,7 +303027,7 @@
         "char_4196_reckpr"
       ],
       "charId": "char_4196_reckpr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4196_reckpr",
           "voiceLangType": "CN_MANDARIN",
@@ -303063,7 +303063,7 @@
         "char_1043_leizi2"
       ],
       "charId": "char_1043_leizi2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1043_leizi2",
           "voiceLangType": "CN_MANDARIN",
@@ -303099,7 +303099,7 @@
         "char_4195_radian"
       ],
       "charId": "char_4195_radian",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4195_radian",
           "voiceLangType": "CN_MANDARIN",
@@ -303142,7 +303142,7 @@
         "char_4202_haruka"
       ],
       "charId": "char_4202_haruka",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4202_haruka",
           "voiceLangType": "CN_MANDARIN",
@@ -303178,7 +303178,7 @@
         "char_4203_kichi"
       ],
       "charId": "char_4203_kichi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4203_kichi",
           "voiceLangType": "CN_MANDARIN",
@@ -303214,7 +303214,7 @@
         "char_4199_makiri"
       ],
       "charId": "char_4199_makiri",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4199_makiri",
           "voiceLangType": "CN_MANDARIN",
@@ -303251,7 +303251,7 @@
         "char_1044_hsgma2_CN_TOPOLECT"
       ],
       "charId": "char_1044_hsgma2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1044_hsgma2",
           "voiceLangType": "CN_MANDARIN",
@@ -303294,7 +303294,7 @@
         "char_4182_oblvns"
       ],
       "charId": "char_4182_oblvns",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4182_oblvns",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -303308,7 +303308,7 @@
         "char_4183_mortis"
       ],
       "charId": "char_4183_mortis",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4183_mortis",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -303322,7 +303322,7 @@
         "char_4184_dolris"
       ],
       "charId": "char_4184_dolris",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4184_dolris",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -303336,7 +303336,7 @@
         "char_4185_amoris"
       ],
       "charId": "char_4185_amoris",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4185_amoris",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -303350,7 +303350,7 @@
         "char_4186_tmoris"
       ],
       "charId": "char_4186_tmoris",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4186_tmoris",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -303364,7 +303364,7 @@
         "char_4204_mantra"
       ],
       "charId": "char_4204_mantra",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4204_mantra",
           "voiceLangType": "CN_MANDARIN",
@@ -303400,7 +303400,7 @@
         "char_4207_branch"
       ],
       "charId": "char_4207_branch",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4207_branch",
           "voiceLangType": "CN_MANDARIN",
@@ -303443,7 +303443,7 @@
         "char_4208_wintim"
       ],
       "charId": "char_4208_wintim",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4208_wintim",
           "voiceLangType": "CN_MANDARIN",
@@ -303486,7 +303486,7 @@
         "char_1045_svash2"
       ],
       "charId": "char_1045_svash2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1045_svash2",
           "voiceLangType": "CN_MANDARIN",
@@ -303522,7 +303522,7 @@
         "char_1046_sbell2"
       ],
       "charId": "char_1046_sbell2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1046_sbell2",
           "voiceLangType": "CN_MANDARIN",
@@ -303558,7 +303558,7 @@
         "char_1047_halo2"
       ],
       "charId": "char_1047_halo2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1047_halo2",
           "voiceLangType": "CN_MANDARIN",
@@ -303594,7 +303594,7 @@
         "char_4211_snhunt"
       ],
       "charId": "char_4211_snhunt",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4211_snhunt",
           "voiceLangType": "CN_MANDARIN",
@@ -303630,7 +303630,7 @@
         "char_394_hadiya"
       ],
       "charId": "char_394_hadiya",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_394_hadiya",
           "voiceLangType": "CN_MANDARIN",
@@ -303666,7 +303666,7 @@
         "char_4051_akkord"
       ],
       "charId": "char_4051_akkord",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4051_akkord",
           "voiceLangType": "CN_MANDARIN",
@@ -303702,7 +303702,7 @@
         "char_4212_nasti"
       ],
       "charId": "char_4212_nasti",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4212_nasti",
           "voiceLangType": "CN_MANDARIN",
@@ -303738,7 +303738,7 @@
         "char_4213_skybx"
       ],
       "charId": "char_4213_skybx",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4213_skybx",
           "voiceLangType": "CN_MANDARIN",
@@ -303774,7 +303774,7 @@
         "char_4214_cairn"
       ],
       "charId": "char_4214_cairn",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4214_cairn",
           "voiceLangType": "CN_MANDARIN",
@@ -303810,7 +303810,7 @@
         "char_4056_titi"
       ],
       "charId": "char_4056_titi",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4056_titi",
           "voiceLangType": "CN_MANDARIN",
@@ -303846,7 +303846,7 @@
         "char_1022_flwr2"
       ],
       "charId": "char_1022_flwr2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1022_flwr2",
           "voiceLangType": "CN_MANDARIN",
@@ -303882,7 +303882,7 @@
         "char_4166_varkis"
       ],
       "charId": "char_4166_varkis",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4166_varkis",
           "voiceLangType": "CN_MANDARIN",
@@ -303919,7 +303919,7 @@
         "char_2027_wang_CN_TOPOLECT"
       ],
       "charId": "char_2027_wang",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2027_wang",
           "voiceLangType": "CN_MANDARIN",
@@ -303963,7 +303963,7 @@
         "char_1050_chen3_CN_TOPOLECT"
       ],
       "charId": "char_1050_chen3",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1050_chen3",
           "voiceLangType": "CN_MANDARIN",
@@ -304006,7 +304006,7 @@
         "char_4221_ju"
       ],
       "charId": "char_4221_ju",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4221_ju",
           "voiceLangType": "CN_MANDARIN",
@@ -304042,7 +304042,7 @@
         "char_4222_taraxa"
       ],
       "charId": "char_4222_taraxa",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4222_taraxa",
           "voiceLangType": "CN_MANDARIN",
@@ -304079,7 +304079,7 @@
         "char_4037_demetr_ITA"
       ],
       "charId": "char_4037_demetr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4037_demetr",
           "voiceLangType": "CN_MANDARIN",
@@ -304108,7 +304108,7 @@
         "char_4031_liesel"
       ],
       "charId": "char_4031_liesel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4031_liesel",
           "voiceLangType": "CN_MANDARIN",
@@ -304130,7 +304130,7 @@
         "char_4224_turdus"
       ],
       "charId": "char_4224_turdus",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4224_turdus",
           "voiceLangType": "CN_MANDARIN",
@@ -304159,7 +304159,7 @@
         "char_4223_botany"
       ],
       "charId": "char_4223_botany",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4223_botany",
           "voiceLangType": "CN_MANDARIN",
@@ -304188,7 +304188,7 @@
         "char_1051_headb2"
       ],
       "charId": "char_1051_headb2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1051_headb2",
           "voiceLangType": "CN_MANDARIN",
@@ -304217,7 +304217,7 @@
         "char_1052_kalts2"
       ],
       "charId": "char_1052_kalts2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1052_kalts2",
           "voiceLangType": "CN_MANDARIN",
@@ -304239,7 +304239,7 @@
         "char_4225_tanya"
       ],
       "charId": "char_4225_tanya",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4225_tanya",
           "voiceLangType": "CN_MANDARIN",
@@ -304261,7 +304261,7 @@
         "char_4226_veen"
       ],
       "charId": "char_4226_veen",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4226_veen",
           "voiceLangType": "CN_MANDARIN",
@@ -304283,7 +304283,7 @@
         "char_4228_closur"
       ],
       "charId": "char_4228_closur",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4228_closur",
           "voiceLangType": "CN_MANDARIN",
@@ -304305,7 +304305,7 @@
         "char_4227_gallus"
       ],
       "charId": "char_4227_gallus",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4227_gallus",
           "voiceLangType": "CN_MANDARIN",
@@ -304327,7 +304327,7 @@
         "char_1048_orchd2"
       ],
       "charId": "char_1048_orchd2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1048_orchd2",
           "voiceLangType": "CN_MANDARIN",
@@ -304349,7 +304349,7 @@
         "char_1049_catap2"
       ],
       "charId": "char_1049_catap2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1049_catap2",
           "voiceLangType": "CN_MANDARIN",
@@ -304371,7 +304371,7 @@
         "char_4215_buddy"
       ],
       "charId": "char_4215_buddy",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4215_buddy",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -304385,7 +304385,7 @@
         "char_4229_aphris"
       ],
       "charId": "char_4229_aphris",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4229_aphris",
           "voiceLangType": "CN_MANDARIN",
@@ -304407,7 +304407,7 @@
         "char_4234_pedro"
       ],
       "charId": "char_4234_pedro",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4234_pedro",
           "voiceLangType": "CN_MANDARIN",
@@ -304429,7 +304429,7 @@
         "char_4230_mcnist"
       ],
       "charId": "char_4230_mcnist",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4230_mcnist",
           "voiceLangType": "CN_MANDARIN",
@@ -304451,7 +304451,7 @@
         "char_1015_aglna2"
       ],
       "charId": "char_1015_aglna2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1015_aglna2",
           "voiceLangType": "CN_MANDARIN",
@@ -304473,7 +304473,7 @@
         "char_4235_thumpy"
       ],
       "charId": "char_4235_thumpy",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4235_thumpy",
           "voiceLangType": "CN_MANDARIN",
@@ -304495,7 +304495,7 @@
         "char_4236_tmslot"
       ],
       "charId": "char_4236_tmslot",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4236_tmslot",
           "voiceLangType": "CN_MANDARIN",
@@ -304517,7 +304517,7 @@
         "char_4237_jcinta"
       ],
       "charId": "char_4237_jcinta",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4237_jcinta",
           "voiceLangType": "CN_MANDARIN",
@@ -304539,7 +304539,7 @@
         "char_4220_kormr"
       ],
       "charId": "char_4220_kormr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4220_kormr",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -304553,7 +304553,7 @@
         "char_4218_aigis"
       ],
       "charId": "char_4218_aigis",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4218_aigis",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -304567,7 +304567,7 @@
         "char_4217_makoto"
       ],
       "charId": "char_4217_makoto",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4217_makoto",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -304581,7 +304581,7 @@
         "char_4219_yukari"
       ],
       "charId": "char_4219_yukari",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "wordkey": "char_4219_yukari",
         "voiceLangType": "LINKAGE",
         "cvName": [
@@ -304595,7 +304595,7 @@
         "char_311_mudrok#1"
       ],
       "charId": "char_311_mudrok",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_311_mudrok#1",
           "voiceLangType": "CN_MANDARIN",
@@ -304631,7 +304631,7 @@
         "char_113_cqbw_epoque#7"
       ],
       "charId": "char_113_cqbw",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_113_cqbw_epoque#7",
           "voiceLangType": "CN_MANDARIN",
@@ -304667,7 +304667,7 @@
         "char_4067_lolxh#1"
       ],
       "charId": "char_4067_lolxh",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4067_lolxh#1",
           "voiceLangType": "CN_MANDARIN",
@@ -304690,7 +304690,7 @@
         "char_472_pasngr_epoque#17"
       ],
       "charId": "char_472_pasngr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_472_pasngr_epoque#17",
           "voiceLangType": "CN_MANDARIN",
@@ -304729,7 +304729,7 @@
         "char_003_kalts_boc#6"
       ],
       "charId": "char_003_kalts",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_003_kalts_boc#6",
           "voiceLangType": "CN_MANDARIN",
@@ -304765,7 +304765,7 @@
         "char_4064_mlynar_epoque#28"
       ],
       "charId": "char_4064_mlynar",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4064_mlynar_epoque#28",
           "voiceLangType": "CN_MANDARIN",
@@ -304801,7 +304801,7 @@
         "char_249_mlyss_boc#8"
       ],
       "charId": "char_249_mlyss",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_249_mlyss_boc#8",
           "voiceLangType": "CN_MANDARIN",
@@ -304837,7 +304837,7 @@
         "char_1012_skadi2_iteration#2"
       ],
       "charId": "char_1012_skadi2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1012_skadi2_iteration#2",
           "voiceLangType": "CN_MANDARIN",
@@ -304873,7 +304873,7 @@
         "char_1016_agoat2_epoque#34"
       ],
       "charId": "char_1016_agoat2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1016_agoat2_epoque#34",
           "voiceLangType": "CN_MANDARIN",
@@ -304909,7 +304909,7 @@
         "char_245_cello_sale#12"
       ],
       "charId": "char_245_cello",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_245_cello_sale#12",
           "voiceLangType": "CN_MANDARIN",
@@ -304945,7 +304945,7 @@
         "char_1032_excu2_sale#12"
       ],
       "charId": "char_1032_excu2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1032_excu2_sale#12",
           "voiceLangType": "CN_MANDARIN",
@@ -304981,7 +304981,7 @@
         "char_2024_chyue_cfa#1"
       ],
       "charId": "char_2024_chyue",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2024_chyue_cfa#1",
           "voiceLangType": "CN_MANDARIN",
@@ -305017,7 +305017,7 @@
         "char_1035_wisdel_sale#14"
       ],
       "charId": "char_1035_wisdel",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1035_wisdel_sale#14",
           "voiceLangType": "CN_MANDARIN",
@@ -305053,7 +305053,7 @@
         "char_1038_whitw2_sale#15"
       ],
       "charId": "char_1038_whitw2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1038_whitw2_sale#15",
           "voiceLangType": "CN_MANDARIN",
@@ -305089,7 +305089,7 @@
         "char_4134_cetsyr_epoque#50"
       ],
       "charId": "char_4134_cetsyr",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_4134_cetsyr_epoque#50",
           "voiceLangType": "CN_MANDARIN",
@@ -305125,7 +305125,7 @@
         "char_2023_ling_nian#12"
       ],
       "charId": "char_2023_ling",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_2023_ling_nian#12",
           "voiceLangType": "CN_MANDARIN",
@@ -305161,7 +305161,7 @@
         "char_1041_angel2_iteration#6"
       ],
       "charId": "char_1041_angel2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1041_angel2_iteration#6",
           "voiceLangType": "CN_MANDARIN",
@@ -305183,7 +305183,7 @@
         "char_1016_agoat2_epoque#57"
       ],
       "charId": "char_1016_agoat2",
-      "voiceLangInfoDataDict": {
+      "dict": {
         "CN_MANDARIN": {
           "wordkey": "char_1016_agoat2_epoque#57",
           "voiceLangType": "CN_MANDARIN",

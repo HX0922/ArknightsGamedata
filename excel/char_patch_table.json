@@ -6,7 +6,7 @@
         "char_1001_amiya2",
         "char_1037_amiya3"
       ],
-      "defaultPatch": "char_002_amiya"
+      "default": "char_002_amiya"
     }
   },
   "patchChars": {
@@ -304,7 +304,7 @@
       "skills": [
         {
           "skillId": "skchr_amiya2_1",
-          "specializeLevelUpData": [
+          "levelUpCostCond": [
             {
               "unlockCond": {
                 "phase": "PHASE_2",
@@ -378,14 +378,14 @@
               ]
             }
           ],
-          "initialUnlockCond": {
+          "unlockCond": {
             "phase": "PHASE_0",
             "level": 1
           }
         },
         {
           "skillId": "skchr_amiya2_2",
-          "specializeLevelUpData": [
+          "levelUpCostCond": [
             {
               "unlockCond": {
                 "phase": "PHASE_2",
@@ -459,7 +459,7 @@
               ]
             }
           ],
-          "initialUnlockCond": {
+          "unlockCond": {
             "phase": "PHASE_1",
             "level": 1
           }
@@ -1066,7 +1066,7 @@
       "skills": [
         {
           "skillId": "skchr_amiya3_1",
-          "specializeLevelUpData": [
+          "levelUpCostCond": [
             {
               "unlockCond": {
                 "phase": "PHASE_2",
@@ -1140,14 +1140,14 @@
               ]
             }
           ],
-          "initialUnlockCond": {
+          "unlockCond": {
             "phase": "PHASE_0",
             "level": 1
           }
         },
         {
           "skillId": "skchr_amiya3_2",
-          "specializeLevelUpData": [
+          "levelUpCostCond": [
             {
               "unlockCond": {
                 "phase": "PHASE_2",
@@ -1221,7 +1221,7 @@
               ]
             }
           ],
-          "initialUnlockCond": {
+          "unlockCond": {
             "phase": "PHASE_1",
             "level": 1
           }

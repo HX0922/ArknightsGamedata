@@ -1,6 +1,6 @@
 # ArknightsGamedata
 
-明日方舟（Arknights）国服客户端数据表。
+明日方舟（Arknights）国服客户端数据与资源库。
 
 ## 许可与声明
 

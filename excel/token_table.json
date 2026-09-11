@@ -271,8 +271,8 @@
     "skills": [
       {
         "skillId": "sktok_sensor",
-        "specializeLevelUpData": [],
-        "initialUnlockCond": {
+        "levelUpCostCond": [],
+        "unlockCond": {
           "phase": "PHASE_0",
           "level": 0
         }

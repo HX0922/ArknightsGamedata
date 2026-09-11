@@ -113,6 +113,7 @@
         "selector": {
           "professionMask": 1023,
           "buildableMask": "ALL",
+          "playerSideMask": "ALL",
           "sideType": "ALL",
           "heightTypeMask": "ALL"
         },
@@ -127,6 +128,7 @@
         "selector": {
           "professionMask": 1023,
           "buildableMask": "ALL",
+          "playerSideMask": "ALL",
           "sideType": "ALL",
           "heightTypeMask": "ALL"
         },
@@ -141,6 +143,7 @@
         "selector": {
           "professionMask": 1023,
           "buildableMask": "ALL",
+          "playerSideMask": "ALL",
           "sideType": "ALL",
           "heightTypeMask": "ALL"
         },
@@ -155,6 +158,7 @@
         "selector": {
           "professionMask": 1023,
           "buildableMask": "ALL",
+          "playerSideMask": "ALL",
           "sideType": "ALL",
           "heightTypeMask": "ALL"
         },
@@ -169,6 +173,7 @@
         "selector": {
           "professionMask": 1023,
           "buildableMask": "ALL",
+          "playerSideMask": "ALL",
           "sideType": "ALL",
           "heightTypeMask": "ALL"
         },
@@ -223,6 +228,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -236,6 +242,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -254,6 +261,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -266,6 +274,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -279,6 +288,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -293,6 +303,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -305,6 +316,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -335,6 +347,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -366,6 +379,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -379,6 +393,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -407,6 +422,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -420,6 +436,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -444,6 +461,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -459,6 +477,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -487,6 +506,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -501,6 +521,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -529,6 +550,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -556,6 +578,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -583,6 +606,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "RANGED",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -611,6 +635,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -623,6 +648,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -635,6 +661,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -664,6 +691,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -676,6 +704,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -688,6 +717,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -717,6 +747,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -729,6 +760,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -760,6 +792,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -772,6 +805,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -803,6 +837,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "MELEE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -831,6 +866,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "MELEE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -859,6 +895,7 @@
                       "selector": {
                         "professionMask": "WARRIOR",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -885,6 +922,7 @@
                       "selector": {
                         "professionMask": "MEDIC",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -911,6 +949,7 @@
                       "selector": {
                         "professionMask": "SPECIAL",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -955,6 +994,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -968,6 +1008,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -981,6 +1022,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -994,6 +1036,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1007,6 +1050,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1020,6 +1064,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1032,6 +1077,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1060,6 +1106,7 @@
                       "selector": {
                         "professionMask": 639,
                         "buildableMask": "RANGED",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1086,6 +1133,7 @@
                       "selector": {
                         "professionMask": 639,
                         "buildableMask": "MELEE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1111,6 +1159,7 @@
                       "selector": {
                         "professionMask": 514,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1138,6 +1187,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1150,6 +1200,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1162,6 +1213,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1190,6 +1242,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1202,6 +1255,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1229,6 +1283,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1257,6 +1312,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1269,6 +1325,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1296,6 +1353,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1324,6 +1382,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1352,6 +1411,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1380,6 +1440,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1392,6 +1453,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1405,6 +1467,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1433,6 +1496,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1446,6 +1510,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1475,6 +1540,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1487,6 +1553,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1500,6 +1567,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1529,6 +1597,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1541,6 +1610,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1554,6 +1624,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1583,6 +1654,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1611,6 +1683,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1657,6 +1730,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1670,6 +1744,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1684,6 +1759,7 @@
                       "selector": {
                         "professionMask": "TRAP",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1697,6 +1773,7 @@
                       "selector": {
                         "professionMask": "TRAP",
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1710,6 +1787,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1723,6 +1801,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1735,6 +1814,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1749,6 +1829,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1762,6 +1843,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1790,6 +1872,7 @@
                       "selector": {
                         "professionMask": "TRAP",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1803,6 +1886,7 @@
                       "selector": {
                         "professionMask": "TRAP",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1834,6 +1918,7 @@
                       "selector": {
                         "professionMask": "TRAP",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1863,6 +1948,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1875,6 +1961,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1903,6 +1990,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1915,6 +2003,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1944,6 +2033,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1957,6 +2047,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1970,6 +2061,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -1999,6 +2091,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2028,6 +2121,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2043,6 +2137,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2071,6 +2166,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2088,6 +2184,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2117,6 +2214,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2148,6 +2246,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2176,6 +2275,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2189,6 +2289,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2202,6 +2303,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2215,6 +2317,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2244,6 +2347,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2259,6 +2363,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2272,6 +2377,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2301,6 +2407,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2330,6 +2437,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2358,6 +2466,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2370,6 +2479,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2398,6 +2508,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2411,6 +2522,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2440,6 +2552,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2452,6 +2565,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2464,6 +2578,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2493,6 +2608,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2508,6 +2624,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2520,6 +2637,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2549,6 +2667,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2577,6 +2696,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2605,6 +2725,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2633,6 +2754,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2661,6 +2783,7 @@
                       "selector": {
                         "professionMask": 22,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2689,6 +2812,7 @@
                       "selector": {
                         "professionMask": 22,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2717,6 +2841,7 @@
                       "selector": {
                         "professionMask": 104,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2745,6 +2870,7 @@
                       "selector": {
                         "professionMask": 104,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2791,6 +2917,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2804,6 +2931,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2816,6 +2944,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2828,6 +2957,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2840,6 +2970,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2852,6 +2983,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2880,6 +3012,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2893,6 +3026,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2921,6 +3055,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2935,6 +3070,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2964,6 +3100,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -2993,6 +3130,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3006,6 +3144,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3019,6 +3158,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3032,6 +3172,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3045,6 +3186,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3058,6 +3200,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3072,6 +3215,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3086,6 +3230,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3100,6 +3245,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3127,6 +3273,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3140,6 +3287,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3153,6 +3301,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3167,6 +3316,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3179,6 +3329,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3206,6 +3357,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3219,6 +3371,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3232,6 +3385,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3244,6 +3398,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3272,6 +3427,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3285,6 +3441,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3299,6 +3456,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3326,6 +3484,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3354,6 +3513,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3381,6 +3541,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3393,6 +3554,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3405,6 +3567,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3418,6 +3581,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3431,6 +3595,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3459,6 +3624,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3487,6 +3653,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3515,6 +3682,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3543,6 +3711,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3558,6 +3727,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3587,6 +3757,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3600,6 +3771,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3630,6 +3802,7 @@
                       "selector": {
                         "professionMask": 10,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3658,6 +3831,7 @@
                       "selector": {
                         "professionMask": 10,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3684,6 +3858,7 @@
                       "selector": {
                         "professionMask": 80,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3712,6 +3887,7 @@
                       "selector": {
                         "professionMask": 80,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -3777,6 +3953,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3790,6 +3967,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3804,6 +3982,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3816,6 +3995,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3828,6 +4008,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3856,6 +4037,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3868,6 +4050,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3880,6 +4063,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3894,6 +4078,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3924,6 +4109,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3938,6 +4124,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3967,6 +4154,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -3997,6 +4185,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4028,6 +4217,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4040,6 +4230,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4074,6 +4265,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4086,6 +4278,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4115,6 +4308,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4128,6 +4322,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4157,6 +4352,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4171,6 +4367,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4199,6 +4396,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4213,6 +4411,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4241,6 +4440,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4269,6 +4469,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4297,6 +4498,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4326,6 +4528,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4355,6 +4558,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4383,6 +4587,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4411,6 +4616,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4439,6 +4645,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4467,6 +4674,7 @@
                       "selector": {
                         "professionMask": 22,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4495,6 +4703,7 @@
                       "selector": {
                         "professionMask": 22,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4523,6 +4732,7 @@
                       "selector": {
                         "professionMask": 97,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4551,6 +4761,7 @@
                       "selector": {
                         "professionMask": 97,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4597,6 +4808,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4610,6 +4822,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4638,6 +4851,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4651,6 +4865,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4664,6 +4879,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4692,6 +4908,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4706,6 +4923,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4720,6 +4938,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4747,6 +4966,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4774,6 +4994,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4787,6 +5008,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4815,6 +5037,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4842,6 +5065,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4869,6 +5093,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4899,6 +5124,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4928,6 +5154,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -4957,6 +5184,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -4985,6 +5213,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5013,6 +5242,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5041,6 +5271,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5069,6 +5300,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5097,6 +5329,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5125,6 +5358,7 @@
                       "selector": {
                         "professionMask": 3,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5153,6 +5387,7 @@
                       "selector": {
                         "professionMask": 3,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5179,6 +5414,7 @@
                       "selector": {
                         "professionMask": 96,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5207,6 +5443,7 @@
                       "selector": {
                         "professionMask": 96,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5252,6 +5489,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5265,6 +5503,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5294,6 +5533,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5322,6 +5562,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5336,6 +5577,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5350,6 +5592,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5364,6 +5607,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5378,6 +5622,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5392,6 +5637,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5406,6 +5652,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5420,6 +5667,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5434,6 +5682,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5448,6 +5697,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5462,6 +5712,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5476,6 +5727,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5506,6 +5758,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5519,6 +5772,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5532,6 +5786,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5561,6 +5816,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5589,6 +5845,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5617,6 +5874,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5629,6 +5887,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5641,6 +5900,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5654,6 +5914,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5683,6 +5944,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -5712,6 +5974,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5725,6 +5988,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5753,6 +6017,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5766,6 +6031,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5779,6 +6045,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5793,6 +6060,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5821,6 +6089,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5834,6 +6103,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5847,6 +6117,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5875,6 +6146,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5888,6 +6160,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5901,6 +6174,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5914,6 +6188,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5942,6 +6217,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5970,6 +6246,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -5998,6 +6275,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6026,6 +6304,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6054,6 +6333,7 @@
                       "selector": {
                         "professionMask": 28,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6082,6 +6362,7 @@
                       "selector": {
                         "professionMask": 28,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6110,6 +6391,7 @@
                       "selector": {
                         "professionMask": 98,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6138,6 +6420,7 @@
                       "selector": {
                         "professionMask": 98,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6185,6 +6468,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6198,6 +6482,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6226,6 +6511,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6254,6 +6540,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6266,6 +6553,7 @@
                       "selector": {
                         "professionMask": 511,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6294,6 +6582,7 @@
                       "selector": {
                         "professionMask": 1015,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6308,6 +6597,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6321,6 +6611,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6334,6 +6625,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6365,6 +6657,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6378,6 +6671,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6391,6 +6685,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6419,6 +6714,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6432,6 +6728,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6461,6 +6758,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6489,6 +6787,7 @@
                       "selector": {
                         "professionMask": 767,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6517,6 +6816,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6545,6 +6845,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6573,6 +6874,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6601,6 +6903,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6629,6 +6932,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6657,6 +6961,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6685,6 +6990,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6714,6 +7020,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6743,6 +7050,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6771,6 +7079,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6784,6 +7093,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6796,6 +7106,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6809,6 +7120,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6823,6 +7135,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6851,6 +7164,7 @@
                       "selector": {
                         "professionMask": 1023,
                         "buildableMask": "ALL",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "ALL"
                       },
@@ -6864,6 +7178,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6878,6 +7193,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6906,6 +7222,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
@@ -6934,6 +7251,7 @@
                       "selector": {
                         "professionMask": "NONE",
                         "buildableMask": "NONE",
+                        "playerSideMask": "ALL",
                         "sideType": "ALL",
                         "heightTypeMask": "NONE"
                       },
