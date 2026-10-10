@@ -2688,6 +2688,74 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "ap_supply_lt_120_2026_3": {
+      "itemId": "ap_supply_lt_120_2026_3",
+      "name": "“流金影”",
+      "description": "可口凉爽的冰皮月饼，记得冷藏保存哦！",
+      "rarity": "TIER_5",
+      "iconId": "ap_supply_lt_120_2026_3",
+      "sortId": 30001,
+      "usage": "一份青梅绿茶馅的冰皮月饼，可用于恢复理智。",
+      "obtainApproach": "赠送",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_120_2026_4": {
+      "itemId": "ap_supply_lt_120_2026_4",
+      "name": "“共光华”",
+      "description": "可口凉爽的冰皮月饼，记得冷藏保存哦！",
+      "rarity": "TIER_5",
+      "iconId": "ap_supply_lt_120_2026_4",
+      "sortId": 30001,
+      "usage": "一份黄油开心果馅的冰皮月饼，可用于恢复理智。",
+      "obtainApproach": "赠送",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_120_2026_5": {
+      "itemId": "ap_supply_lt_120_2026_5",
+      "name": "“举清辉”",
+      "description": "晶莹诱人的水晶皮月饼，别忘了冷藏保存哦！",
+      "rarity": "TIER_5",
+      "iconId": "ap_supply_lt_120_2026_5",
+      "sortId": 30001,
+      "usage": "一份芋泥奶酪馅的水晶皮月饼，可用于恢复理智。",
+      "obtainApproach": "赠送",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_120_2026_6": {
+      "itemId": "ap_supply_lt_120_2026_6",
+      "name": "“拾秋实”",
+      "description": "晶莹诱人的水晶皮月饼，别忘了冷藏保存哦！",
+      "rarity": "TIER_5",
+      "iconId": "ap_supply_lt_120_2026_6",
+      "sortId": 30001,
+      "usage": "一份酱汁鳞肉馅的水晶皮月饼，可用于恢复理智。",
+      "obtainApproach": "赠送",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "EXTERMINATION_AGENT": {
       "itemId": "EXTERMINATION_AGENT",
       "name": "常态事务代理卡",
@@ -33400,6 +33468,23 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "voucher_full_cathy": {
+      "itemId": "voucher_full_cathy",
+      "name": "凯瑟琳的私人信件",
+      "description": "信中提及了她在伦蒂尼姆工厂的有趣见闻，还附上了一枚她亲手铸造的徽章。",
+      "rarity": "TIER_5",
+      "iconId": "voucher_full_cathy",
+      "sortId": 5000038,
+      "usage": "发送给博士的私人信件，用于将凯瑟琳的潜能提升至满级。",
+      "obtainApproach": "记录修复获得",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "MATERIAL",
+      "itemType": "VOUCHER_FULL_POTENTIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "uni_set_guitar": {
       "itemId": "uni_set_guitar",
       "name": "火蓝之心家具收藏包",
@@ -33712,6 +33797,23 @@
       "iconId": "uni_set_citizengarden",
       "sortId": -10000,
       "usage": "获得所有尚未取得且仅可在太阳甩在身后活动中得到的家具。",
+      "obtainApproach": "记录修复获得",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "NONE",
+      "itemType": "UNI_COLLECTION",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "uni_set_trainStation": {
+      "itemId": "uni_set_trainStation",
+      "name": "追迹日落以西家具收藏包",
+      "description": "采购部重新联系供货商，补齐了当初限量的部分家具，感谢可露希尔吧！",
+      "rarity": "TIER_5",
+      "iconId": "uni_set_trainStation",
+      "sortId": -10000,
+      "usage": "获得所有尚未取得且仅可在追迹日落以西活动中得到的家具。",
       "obtainApproach": "记录修复获得",
       "hideInItemGet": false,
       "reslockStatus": "NOT_SUPPORT_RESLOCK",
@@ -40890,6 +40992,23 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "act3break_milestone_point": {
+      "itemId": "act3break_milestone_point",
+      "name": "“小心地滑”",
+      "description": "普通的标识牌。 在圆凳滑行赛中被作为加速指示牌使用之后，受到了关注这项赛事的干员们的喜爱，逐渐成为一种收藏品。",
+      "rarity": "TIER_5",
+      "iconId": "act1break_milestone_point",
+      "sortId": -10000,
+      "usage": "可在突破里程碑中兑换奖励。",
+      "obtainApproach": "活动获得",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "act43side_token_phantom": {
       "itemId": "act43side_token_phantom",
       "name": "神秘片场黑影",
@@ -44011,6 +44130,21 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "act1dp_milestone_point": {
+      "itemId": "act1dp_milestone_point",
+      "name": "绒绒欢乐像",
+      "rarity": "TIER_5",
+      "iconId": "act1dp_milestone_point",
+      "sortId": -10000,
+      "obtainApproach": "活动期间关卡限时掉落",
+      "hideInItemGet": false,
+      "reslockStatus": "NOT_SUPPORT_RESLOCK",
+      "canReslock": false,
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "uni_set_velvet": {
       "itemId": "uni_set_velvet",
       "name": "月行水上家具收藏包",
@@ -44376,6 +44510,26 @@
     "ap_supply_lt_100_2026_5": {
       "id": "ap_supply_lt_100_2026_5",
       "ap": 100,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2026_3": {
+      "id": "ap_supply_lt_120_2026_3",
+      "ap": 120,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2026_4": {
+      "id": "ap_supply_lt_120_2026_4",
+      "ap": 120,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2026_5": {
+      "id": "ap_supply_lt_120_2026_5",
+      "ap": 120,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2026_6": {
+      "id": "ap_supply_lt_120_2026_6",
+      "ap": 120,
       "hasTs": true
     }
   },
@@ -45941,8 +46095,14 @@
     "furni_MA_mooncake_T_04": 1,
     "furni_MA_mooncake_J_01": 1,
     "furni_MA_mooncake_J_02": 1,
+    "furni_MA_mooncake_B_05": 1,
+    "furni_MA_mooncake_B_06": 1,
+    "furni_MA_mooncake_J_03": 1,
+    "furni_MA_mooncake_J_04": 1,
     "furni_oct1st_seating_01": 1,
     "furni_oct1st_ladder_01": 1,
+    "furni_oct1st_barrier_01": 1,
+    "furni_act1dp_frame_01": 1,
     "furni_duanwu_lazysofa_01": 1,
     "furni_duanwu_bed_L_01": 1,
     "furni_duanwu_bed_R_01": 1,
@@ -46176,6 +46336,7 @@
     "furni_terracommericials_boutique_01": 1,
     "furni_terracommericials_fruitMedley_01": 1,
     "furni_terracommericials_vanillaSoda_01": 1,
+    "furni_vector_S3_touch_01": 1,
     "furni_contract_s0_01": 1,
     "furni_contract_s1_01": 1,
     "furni_contract_s2_01": 1,
@@ -46469,6 +46630,7 @@
     "char_1016_agoat2@epoque#57": 1,
     "char_4191_tippi@epoque#57": 1,
     "char_478_kirara@epoque#57": 1,
+    "char_4015_spuria@epoque#58": 1,
     "char_120_hibisc@nian#1": 1,
     "char_010_chen@nian#2": 1,
     "char_308_swire@nian#2": 1,
@@ -46665,6 +46827,7 @@
     "char_2012_typhon@wild#9": 1,
     "char_311_mudrok@wild#10": 1,
     "char_336_folivo@wild#11": 1,
+    "char_1027_greyy2@wild#12": 1,
     "char_219_meteo@sweep#1": 1,
     "char_108_silent@sweep#1": 1,
     "char_235_jesica@sweep#1": 1,
@@ -46807,6 +46970,7 @@
     "char_4155_talr@yun#9": 1,
     "char_4207_branch@yun#10": 1,
     "char_4165_ctrail@yun#11": 1,
+    "char_4196_reckpr@yun#12": 1,
     "char_1028_texas2@iteration#1": 1,
     "char_1012_skadi2@iteration#2": 1,
     "char_129_bluep@iteration#2": 1,
@@ -49782,6 +49946,76 @@
         }
       ]
     },
+    "uni_set_trainStation": {
+      "uniCollectionItemId": "uni_set_trainStation",
+      "uniqueItem": [
+        {
+          "id": "furni_trainStation_hatBox_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_scheduleDisplay_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_bench_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_cart_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_plants_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_chandelier_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_pillar_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_boxshelf_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_ticketOffice_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_clock_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_Mailbox_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_wallpaper_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_trainStation_floor_01",
+          "count": 1,
+          "type": "FURN"
+        }
+      ]
+    },
     "uni_set_gardenFantasy_1": {
       "uniCollectionItemId": "uni_set_gardenFantasy_1",
       "uniqueItem": [
@@ -50998,6 +51232,10 @@
     "char_4139_papyrs": {
       "itemId": "voucher_full_papyrs",
       "ts": 1786737600
+    },
+    "char_4162_cathy": {
+      "itemId": "voucher_full_cathy",
+      "ts": 1790668800
     }
   },
   "activityPotentialCharacters": {

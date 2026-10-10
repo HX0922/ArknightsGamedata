@@ -738,6 +738,51 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "act3break_zone1": {
+      "zoneID": "act3break_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "核心突破",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act3break_zone2": {
+      "zoneID": "act3break_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "全力以赴",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act3break_zone3": {
+      "zoneID": "act3break_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "特别战线",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act1dp_zone1": {
+      "zoneID": "act1dp_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "轻游",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act1dp_zone2": {
+      "zoneID": "act1dp_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "欢动",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "act54side_zone1": {
       "zoneID": "act54side_zone1",
       "zoneIndex": 0,
@@ -4473,6 +4518,26 @@
     }
   },
   "zoneValidInfo": {
+    "act3break_zone1": {
+      "startTs": 1790668800,
+      "endTs": 1792439999
+    },
+    "act3break_zone2": {
+      "startTs": 1791273600,
+      "endTs": 1792439999
+    },
+    "act3break_zone3": {
+      "startTs": 1790668800,
+      "endTs": 1792439999
+    },
+    "act1dp_zone1": {
+      "startTs": 1789891200,
+      "endTs": 1790711999
+    },
+    "act1dp_zone2": {
+      "startTs": 1789891200,
+      "endTs": 1790711999
+    },
     "act54side_zone1": {
       "startTs": 1788476400,
       "endTs": 1789675199

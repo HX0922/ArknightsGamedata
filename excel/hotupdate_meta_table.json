@@ -693,6 +693,22 @@
       "endTime": 1789675199,
       "picType": "SKIN",
       "logoId": "p3r"
+    },
+    {
+      "picId": "pic77_a_2",
+      "groupId": 22,
+      "sortId": 2,
+      "startTime": 1789891200,
+      "endTime": 1790711999,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic77_a_3",
+      "groupId": 22,
+      "sortId": 1,
+      "startTime": 1790668800,
+      "endTime": 1792439999,
+      "picType": "NONE"
     }
   ]
 }

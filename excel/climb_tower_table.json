@@ -15981,100 +15981,64 @@
     {
       "stageSort": 1,
       "lowerItemCount": 2,
-      "higherItemCount": 0,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 0
     },
     {
       "stageSort": 2,
       "lowerItemCount": 3,
-      "higherItemCount": 1,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 1
     },
     {
       "stageSort": 3,
       "lowerItemCount": 3,
-      "higherItemCount": 2,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 2
     },
     {
       "stageSort": 4,
       "lowerItemCount": 4,
-      "higherItemCount": 2,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 2
     },
     {
       "stageSort": 5,
       "lowerItemCount": 4,
-      "higherItemCount": 2,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 2
     },
     {
       "stageSort": 6,
       "lowerItemCount": 4,
-      "higherItemCount": 3,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 3
     }
   ],
   "rewardInfoListHardMode": [
     {
       "stageSort": 1,
       "lowerItemCount": 4,
-      "higherItemCount": 0,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 0
     },
     {
       "stageSort": 2,
       "lowerItemCount": 6,
-      "higherItemCount": 2,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 2
     },
     {
       "stageSort": 3,
       "lowerItemCount": 6,
-      "higherItemCount": 4,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 4
     },
     {
       "stageSort": 4,
       "lowerItemCount": 8,
-      "higherItemCount": 4,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 4
     },
     {
       "stageSort": 5,
       "lowerItemCount": 8,
-      "higherItemCount": 4,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 4
     },
     {
       "stageSort": 6,
       "lowerItemCount": 8,
-      "higherItemCount": 6,
-      "index": 0,
-      "row": 0,
-      "col": 0
+      "higherItemCount": 6
     }
   ],
   "missionData": {

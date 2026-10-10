@@ -35508,6 +35508,15 @@
       "endTime": 1773691199,
       "limitCount": 0,
       "condParam": []
+    },
+    "act3break_share": {
+      "shareMissionId": "act3break_share",
+      "missionType": "ACTIVITY",
+      "relateActivityId": "act3break",
+      "startTime": 1790668800,
+      "endTime": 1792439999,
+      "limitCount": 0,
+      "condParam": []
     }
   },
   "crossAppShareMissionConst": {

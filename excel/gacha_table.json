@@ -3772,6 +3772,32 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "DOUBLE_77_0_3",
+      "gachaIndex": 284,
+      "openTime": 1790193600,
+      "endTime": 1791403199,
+      "gachaPoolName": "适合多种场合的强力干员",
+      "gachaPoolSummary": "结束于10月8日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "标准选调",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
+      "gachaPoolId": "DOUBLE_77_0_5",
+      "gachaIndex": 283,
+      "openTime": 1791403200,
+      "endTime": 1792612799,
+      "gachaPoolName": "适合多种场合的强力干员",
+      "gachaPoolSummary": "结束于10月22日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "标准选调",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_9_0_3",
       "gachaIndex": 10,
       "openTime": 1588316400,
@@ -5736,6 +5762,21 @@
       }
     },
     {
+      "gachaPoolId": "CLASSIC_DOUBLE_77_0_2",
+      "gachaIndex": 9908,
+      "openTime": 1790798400,
+      "endTime": 1792007999,
+      "gachaPoolName": "适合多种场合的强力干员",
+      "gachaPoolSummary": "结束于10月15日 03:59",
+      "guaranteeName": "中坚选调",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAQAAAAY2hhcl8yMDZfZ25vc2lzAAJzdWI2UmFyaXR5Q2hhcklkABAAAABjaGFyXzE3Ml9zdnJhc2gABHJhcmU1Q2hhckxpc3QASAAAAAIwAA8AAABjaGFyXzI0Ml9vdHRlcgACMQAPAAAAY2hhcl8zMDZfbGVpemkAAjIAEAAAAGNoYXJfMjAxX21vZXNoZAAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_54_0_5",
       "gachaIndex": 40,
       "openTime": 1727424000,
@@ -5845,6 +5886,20 @@
       "gachaRuleType": "SPECIAL",
       "dynMeta": {
         "base64": "+wQAAANyYXJpdHlQaWNrQ2hhckRpY3QAOwEAAARUSUVSXzUAkQAAAAIwABAAAABjaGFyXzQ5N19jdGFibGUAAjEAEQAAAGNoYXJfNDAxNV9zcHVyaWEAAjIADwAAAGNoYXJfNDE1NV90YWxyAAIzABEAAABjaGFyXzQyMDdfYnJhbmNoAAI0ABAAAABjaGFyXzEwMjJfZmx3cjIAAjUAEQAAAGNoYXJfNDIyMl90YXJheGEAAARUSUVSXzYAlQAAAAIwABEAAABjaGFyXzEwNDNfbGVpemkyAAIxABEAAABjaGFyXzEwNDZfc2JlbGwyAAIyABEAAABjaGFyXzQwODJfcWl1YmFpAAIzABEAAABjaGFyXzIwMTJfdHlwaG9uAAI0ABEAAABjaGFyXzEwNDBfYmxhemUyAAI1ABEAAABjaGFyXzQwMTBfZXRsY2hpAAAAAnN0YXI2Q2hvb3NlUnVsZQCXAAAA5pys5pyf44CQ5a6a5ZCR55SE6YCJ44CR5Y+v5LuO5Lul5LiLNuKYheW5suWRmOiMg+WbtOWGheiHqumAiTxAZ2EuU1BHYWNoYT4z5ZCN5bmy5ZGYPC8+77yM5L2/5YW2PEBnYS5TUEdhY2hhPuWQiOiuoeWHuueOsOamgueOh+WNoDbimIXlh7rnjofnmoQxMDAlPC8+AAJzdGFyNUNob29zZVJ1bGUAlgAAAOacrOacn+OAkOWumuWQkeeUhOmAieOAkeWPr+S7juS7peS4izXimIXlubLlkZjojIPlm7TlhoXoh6rpgIk8QGdhLlNQR2FjaGE+M+WQjeW5suWRmDwvPu+8jOS9v+WFtjxAZ2EuU1BHYWNoYT7lkIjorqHlh7rnjrDmpoLnjofljaA14piF5Ye6546H55qENjAlPC8+AAJkZXRhaWxUaXRsZQAZAAAA5a6a5ZCR55SE6YCJ5Y2h5rGg5LuL57uNAAJkZXRhaWxJbmZvAAQBAAA8QGdhLlNQR2FjaGE+44CQ5a6a5ZCR55SE6YCJ44CRPC8+5pyf6Ze077yM5Y+v5ZyoPEBnYS5TUEdhY2hhPuacrOacn+W5suWRmOiMg+WbtOWGheiHqueUsemAieaLqeW5tumUgeWumjwvPuamgueOh+aPkOWNh+eahDxAZ2EuU1BHYWNoYT4z5ZCNNuKYheW5suWRmDwvPuWSjDxAZ2EuU1BHYWNoYT4z5ZCNNeKYheW5suWRmDwvPgo8QGdhLlNQR2FjaGE+5LiA5pem6YCJ5a6a5qaC546H5o+Q5Y2H5bmy5ZGY5ZCO77yM5pys5pyf5LiN5Y+v5Y+Y5pu0PC8+44CCAAJob21lSW50cm9EZXNjAP8AAADlrprlkJHnlITpgInlj6/lnKjmnKzmnJ/lubLlkZjojIPlm7TlhoU8QGdhLlNQR2FjaGE+6Ieq55Sx6YCJ5oup5bm26ZSB5a6aPC8+5qaC546H5o+Q5Y2H55qEPEBnYS5TUEdhY2hhPjPlkI024piF5bmy5ZGY5ZKMM+WQjTXimIXlubLlkZg8Lz7vvIHpgInlrprlkI7mnKzmnJ/lr7vorr88QGdhLlNQR2FjaGE+5LiN5Y+v5Y+Y5pu0PC8+44CC5YmNMTDmrKHlr7vorr/lv4Xlrprojrflvpc8QGdhLlNQR2FjaGE+NeKYhTwvPuS7peS4iuW5suWRmO+8gQAA"
+      }
+    },
+    {
+      "gachaPoolId": "SPECIAL_77_0_4",
+      "gachaIndex": 40,
+      "openTime": 1790668800,
+      "endTime": 1791835199,
+      "gachaPoolName": "定向甄选",
+      "gachaPoolSummary": "结束于10月13日03:59",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "SPECIAL",
+      "dynMeta": {
+        "base64": "+gQAAANyYXJpdHlQaWNrQ2hhckRpY3QAOgEAAARUSUVSXzUAkAAAAAIwABAAAABjaGFyXzQwNzFfcGVwZXIAAjEADwAAAGNoYXJfNDE0N19taXRtAAIyABEAAABjaGFyXzQwNTJfc3VyZmVyAAIzABAAAABjaGFyXzQyMDNfa2ljaGkAAjQAEAAAAGNoYXJfNDIxNF9jYWlybgACNQARAAAAY2hhcl80MDMxX2xpZXNlbAAABFRJRVJfNgCVAAAAAjAAEQAAAGNoYXJfNDE3OV9tb25zdHIAAjEAEQAAAGNoYXJfMTA0Nl9zYmVsbDIAAjIAEQAAAGNoYXJfNDAzN19kZW1ldHIAAjMAEQAAAGNoYXJfNDIwNF9tYW50cmEAAjQAEQAAAGNoYXJfNDExNl9ibGtrZ3QAAjUAEQAAAGNoYXJfMTA0MF9ibGF6ZTIAAAACc3RhcjZDaG9vc2VSdWxlAJcAAADmnKzmnJ/jgJDlrprlkJHnlITpgInjgJHlj6/ku47ku6XkuIs24piF5bmy5ZGY6IyD5Zu05YaF6Ieq6YCJPEBnYS5TUEdhY2hhPjPlkI3lubLlkZg8Lz7vvIzkvb/lhbY8QGdhLlNQR2FjaGE+5ZCI6K6h5Ye6546w5qaC546H5Y2gNuKYheWHuueOh+eahDEwMCU8Lz4AAnN0YXI1Q2hvb3NlUnVsZQCWAAAA5pys5pyf44CQ5a6a5ZCR55SE6YCJ44CR5Y+v5LuO5Lul5LiLNeKYheW5suWRmOiMg+WbtOWGheiHqumAiTxAZ2EuU1BHYWNoYT4z5ZCN5bmy5ZGYPC8+77yM5L2/5YW2PEBnYS5TUEdhY2hhPuWQiOiuoeWHuueOsOamgueOh+WNoDXimIXlh7rnjofnmoQ2MCU8Lz4AAmRldGFpbFRpdGxlABkAAADlrprlkJHnlITpgInljaHmsaDku4vnu40AAmRldGFpbEluZm8ABAEAADxAZ2EuU1BHYWNoYT7jgJDlrprlkJHnlITpgInjgJE8Lz7mnJ/pl7TvvIzlj6/lnKg8QGdhLlNQR2FjaGE+5pys5pyf5bmy5ZGY6IyD5Zu05YaF6Ieq55Sx6YCJ5oup5bm26ZSB5a6aPC8+5qaC546H5o+Q5Y2H55qEPEBnYS5TUEdhY2hhPjPlkI024piF5bmy5ZGYPC8+5ZKMPEBnYS5TUEdhY2hhPjPlkI014piF5bmy5ZGYPC8+CjxAZ2EuU1BHYWNoYT7kuIDml6bpgInlrprmpoLnjofmj5DljYflubLlkZjlkI7vvIzmnKzmnJ/kuI3lj6/lj5jmm7Q8Lz7jgIIAAmhvbWVJbnRyb0Rlc2MA/wAAAOWumuWQkeeUhOmAieWPr+WcqOacrOacn+W5suWRmOiMg+WbtOWGhTxAZ2EuU1BHYWNoYT7oh6rnlLHpgInmi6nlubbplIHlrpo8Lz7mpoLnjofmj5DljYfnmoQ8QGdhLlNQR2FjaGE+M+WQjTbimIXlubLlkZjlkowz5ZCNNeKYheW5suWRmDwvPu+8gemAieWumuWQjuacrOacn+Wvu+iuvzxAZ2EuU1BHYWNoYT7kuI3lj6/lj5jmm7Q8Lz7jgILliY0xMOasoeWvu+iuv+W/heWumuiOt+W+lzxAZ2EuU1BHYWNoYT414piFPC8+5Lul5LiK5bmy5ZGY77yBAAA="
       }
     }
   ],
@@ -9024,6 +9079,20 @@
       "startTime": 1788984000,
       "endTime": 1790193599,
       "spriteId": "picDouble_77_0_2"
+    },
+    {
+      "poolId": "DOUBLE_77_0_3",
+      "index": 284,
+      "startTime": 1790193600,
+      "endTime": 1791403199,
+      "spriteId": "picDouble_77_0_3"
+    },
+    {
+      "poolId": "DOUBLE_77_0_5",
+      "index": 283,
+      "startTime": 1791403200,
+      "endTime": 1792612799,
+      "spriteId": "picDouble_77_0_5"
     },
     {
       "poolId": "CLASSIC_ATTAIN_45_0_2",
