@@ -12849,6 +12849,7 @@
               "professionMask": 767,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -12886,6 +12887,7 @@
               "professionMask": 639,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -12921,6 +12923,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -12958,6 +12961,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -12993,6 +12997,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13028,6 +13033,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13067,6 +13073,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13100,6 +13107,7 @@
               "professionMask": 5,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13114,6 +13122,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13153,6 +13162,7 @@
               "professionMask": 639,
               "buildableMask": "RANGED",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13191,6 +13201,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13228,6 +13239,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13242,6 +13254,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13279,6 +13292,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13315,6 +13329,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13352,6 +13367,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13388,6 +13404,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13425,6 +13442,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13461,6 +13479,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13498,6 +13517,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13551,6 +13571,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13586,6 +13607,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13600,6 +13622,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13636,6 +13659,7 @@
               "professionMask": "TANK",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13674,6 +13698,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13688,6 +13713,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13726,6 +13752,7 @@
               "professionMask": 639,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13761,6 +13788,7 @@
               "professionMask": 767,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13794,6 +13822,7 @@
               "professionMask": 767,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13827,6 +13856,7 @@
               "professionMask": "CASTER",
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13842,6 +13872,7 @@
               "professionMask": "SNIPER",
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13857,6 +13888,7 @@
               "professionMask": 639,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13888,6 +13920,7 @@
               "professionMask": 68,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13901,6 +13934,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13932,6 +13966,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13946,6 +13981,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13979,6 +14015,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -13992,6 +14029,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14025,6 +14063,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14041,6 +14080,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14072,6 +14112,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14088,6 +14129,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14119,6 +14161,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14133,6 +14176,7 @@
               "professionMask": "PIONEER",
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14146,6 +14190,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14177,6 +14222,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14193,6 +14239,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14224,6 +14271,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14261,6 +14309,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14296,6 +14345,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14324,6 +14374,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14352,6 +14403,7 @@
               "professionMask": 5,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14366,6 +14418,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14401,6 +14454,7 @@
               "professionMask": 5,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14415,6 +14469,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14449,6 +14504,7 @@
               "professionMask": 639,
               "buildableMask": "RANGED",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14483,6 +14539,7 @@
               "professionMask": 767,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14498,6 +14555,7 @@
               "professionMask": 639,
               "buildableMask": "RANGED",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14532,6 +14590,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14564,6 +14623,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14581,6 +14641,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14613,6 +14674,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14627,6 +14689,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14641,6 +14704,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14673,6 +14737,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14688,6 +14753,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14702,6 +14768,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14734,6 +14801,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14765,6 +14833,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14779,6 +14848,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14812,6 +14882,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14827,6 +14898,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14858,6 +14930,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14890,6 +14963,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14922,6 +14996,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14953,6 +15028,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -14968,6 +15044,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15000,6 +15077,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15032,6 +15110,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15063,6 +15142,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15094,6 +15174,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15126,6 +15207,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15158,6 +15240,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15191,6 +15274,7 @@
               "professionMask": 34,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15204,6 +15288,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15220,6 +15305,7 @@
               "professionMask": 34,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15270,6 +15356,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15301,6 +15388,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15332,6 +15420,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15346,6 +15435,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15360,6 +15450,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15391,6 +15482,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15405,6 +15497,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15436,6 +15529,7 @@
               "professionMask": "NONE",
               "buildableMask": "MELEE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15469,6 +15563,7 @@
               "professionMask": "TANK",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15502,6 +15597,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15519,6 +15615,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15535,6 +15632,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15566,6 +15664,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "NONE"
             },
@@ -15582,6 +15681,7 @@
               "professionMask": "NONE",
               "buildableMask": "NONE",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "NONE"
             },
@@ -15598,6 +15698,7 @@
               "professionMask": 1023,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15629,6 +15730,7 @@
               "professionMask": 639,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
@@ -15662,6 +15764,7 @@
               "professionMask": 639,
               "buildableMask": "ALL",
               "playerSideMask": "ALL",
+              "mapLayerMask": "ALL",
               "sideType": "ALL",
               "heightTypeMask": "ALL"
             },
