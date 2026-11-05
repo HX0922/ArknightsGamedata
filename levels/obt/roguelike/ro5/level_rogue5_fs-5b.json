@@ -453,7 +453,7 @@
         "advancedBuildableMask": "NONE"
       },
       {
-        "tileKey": "tile_end_dqq",
+        "tileKey": "tile_end",
         "heightType": "LOWLAND",
         "buildableType": "NONE",
         "passableMask": "ALL",
@@ -761,7 +761,6 @@
       "rogue_yan"
     ]
   },
-  "tilesDisallowToLocate": [],
   "globalBuffs": [
     {
       "prefabKey": "rogue_5_deify_common_buff",
@@ -1724,7 +1723,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -1765,6 +1764,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -1905,7 +1907,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -1946,6 +1948,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -2086,7 +2091,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2127,6 +2132,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -2267,7 +2275,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2308,6 +2316,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -2448,7 +2459,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2489,6 +2500,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -2629,7 +2643,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2670,6 +2684,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -2914,7 +2931,7 @@
               "randomSpawnGroupPackKey": "a1",
               "randomType": "ALWAYS",
               "refreshType": "ALWAYS",
-              "weight": 100,
+              "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "useExtraRoute": false,
@@ -2936,7 +2953,7 @@
               "randomSpawnGroupPackKey": "a1",
               "randomType": "ALWAYS",
               "refreshType": "ALWAYS",
-              "weight": 100,
+              "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "useExtraRoute": false,

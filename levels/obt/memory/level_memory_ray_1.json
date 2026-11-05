@@ -2357,7 +2357,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2398,6 +2398,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {

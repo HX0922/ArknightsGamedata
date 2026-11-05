@@ -1340,6 +1340,83 @@
         ]
       },
       {
+        "avatarId": "avatar_special_95",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1792137600,
+        "avatarLimit": true,
+        "avatarIdSort": 84,
+        "avatarIdDesc": "购买礼包获得\\n“探源开物”",
+        "avatarItemName": "“探源开物”",
+        "avatarItemDesc": "漫漫长河从古时流至今日，承接着人们每一次俯向大地时滴落的汗水。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_95",
+            "descShowTs": 1792137600,
+            "descHideTs": 1793908799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_96",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1792137600,
+        "avatarLimit": true,
+        "avatarIdSort": 85,
+        "avatarIdDesc": "购买礼包获得\\n“山海踏夜”",
+        "avatarItemName": "“山海踏夜”",
+        "avatarItemDesc": "天穹一片漆黑，她是大地上燃烧的火焰。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_96",
+            "descShowTs": 1792137600,
+            "descHideTs": 1793908799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_97",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1792137600,
+        "avatarLimit": true,
+        "avatarIdSort": 86,
+        "avatarIdDesc": "购买礼包获得\\n“永乐长安”",
+        "avatarItemName": "“永乐长安”",
+        "avatarItemDesc": "光辉的宝石一如她满是笑意的眼眸，轻拂古卷，字里行间尽是智慧的余香。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_97",
+            "descShowTs": 1792137600,
+            "descHideTs": 1793908799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_98",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "设定集特典",
+        "isSecret": true,
+        "avatarStartTs": 1793487600,
+        "avatarLimit": false,
+        "avatarIdSort": 87,
+        "avatarIdDesc": "设定集特典\\n“新生”",
+        "avatarItemName": "“新生”",
+        "avatarItemDesc": "花朵枯萎，归于尘土。而现在，新生的种子发出了芽，它祝福过去，承负未来。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得"
+      },
+      {
         "avatarId": "avatar_activity_OF",
         "avatarType": "ACTIVITY",
         "avatarDesc": "【火蓝之心】记录修复",
@@ -3132,7 +3209,11 @@
           "avatar_special_88",
           "avatar_special_89",
           "avatar_special_90",
-          "avatar_special_91"
+          "avatar_special_91",
+          "avatar_special_95",
+          "avatar_special_96",
+          "avatar_special_97",
+          "avatar_special_98"
         ]
       },
       "ACTIVITY": {
@@ -4031,6 +4112,52 @@
         "unlockDesList": [
           "[采购中心]中购买幽蓝门扉组合包获得"
         ]
+      },
+      {
+        "bgId": "bg_redvelvet_1",
+        "bgType": "BASE",
+        "bgSortId": 34,
+        "bgStartTime": 1791500400,
+        "isSecret": true,
+        "bgName": "序幕",
+        "bgDes": "准备好面对幕布拉开时，投向舞台中央的一众目光。",
+        "bgUsage": "一张照片，一段回忆，凝聚了泰拉大地的某个瞬间。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_redvelvet_1",
+            "sortId": 0,
+            "bgMusicId": "music_bg_redvelvet_1"
+          }
+        ],
+        "obtainApproach": "礼包购买",
+        "unlockDesList": [
+          "[采购中心]中购买剧场序幕组合包获得"
+        ]
+      },
+      {
+        "bgId": "bg_arcade_1",
+        "bgType": "BASE",
+        "bgSortId": 35,
+        "bgStartTime": 1792848600,
+        "isSecret": false,
+        "bgName": "演化",
+        "bgDes": "到底输入什么样的操作指令，才能开启通往终极演化的隐藏关卡？",
+        "bgUsage": "一张照片，一段回忆，凝聚了泰拉大地的某个瞬间。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_arcade_1",
+            "sortId": 0,
+            "bgMusicId": "music_bg_arcade_1"
+          }
+        ],
+        "obtainApproach": "活动奖励",
+        "unlockDesList": [
+          "参与视相博物馆：演化活动获得"
+        ]
       }
     ],
     "backgroundGroupDatas": [
@@ -4210,6 +4337,16 @@
             "id": "bg_p3r_1",
             "groupType": "BASE",
             "sortId": 33
+          },
+          {
+            "id": "bg_redvelvet_1",
+            "groupType": "BASE",
+            "sortId": 34
+          },
+          {
+            "id": "bg_arcade_1",
+            "groupType": "BASE",
+            "sortId": 35
           }
         ]
       }
@@ -4672,6 +4809,31 @@
         "isLimitObtain": true,
         "hideWhenLimit": true,
         "rarity": "TIER_6"
+      },
+      {
+        "id": "tm_redvelvet_1",
+        "type": "SPECIAL",
+        "sortId": 19,
+        "startTime": 1791500400,
+        "isSecret": true,
+        "tmName": "剧目",
+        "tmDes": "台上台下，幕前幕后，所有故事，都化作聚光灯下的一场演出。",
+        "tmUsage": "在不变动功能的情况下，对PRTS界面进行了重新设计。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormTmId": "tm_redvelvet_1",
+            "sortId": 0
+          }
+        ],
+        "obtainApproach": "采购中心组合包",
+        "unlockDesList": [
+          "[采购中心]中购买剧场序幕组合包获得"
+        ],
+        "isLimitObtain": true,
+        "hideWhenLimit": true,
+        "rarity": "TIER_6"
       }
     ],
     "themeGroupDatas": [
@@ -4731,6 +4893,11 @@
             "id": "tm_p3r_1",
             "groupType": "SPECIAL",
             "sortId": 18
+          },
+          {
+            "id": "tm_redvelvet_1",
+            "groupType": "SPECIAL",
+            "sortId": 19
           }
         ]
       },
@@ -4852,6 +5019,13 @@
             "endTime": 1737230399,
             "invalidObtainDesc": "暂无获取途径",
             "displayAfterEndTime": false
+          },
+          {
+            "limitInfoId": "bg_sui_1#2",
+            "startTime": 1792137600,
+            "endTime": 1793908799,
+            "invalidObtainDesc": "暂无获取途径",
+            "displayAfterEndTime": false
           }
         ]
       },
@@ -4933,6 +5107,30 @@
             "displayAfterEndTime": false
           }
         ]
+      },
+      "bg_redvelvet_1": {
+        "bgId": "bg_redvelvet_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_redvelvet_1#1",
+            "startTime": 1791500400,
+            "endTime": 1793303999,
+            "invalidObtainDesc": "暂无获取途径",
+            "displayAfterEndTime": false
+          }
+        ]
+      },
+      "bg_arcade_1": {
+        "bgId": "bg_arcade_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_arcade_1#1",
+            "startTime": 1792841400,
+            "endTime": 1794254399,
+            "invalidObtainDesc": "暂无获取途径",
+            "displayAfterEndTime": false
+          }
+        ]
       }
     },
     "themeLimitData": {
@@ -4977,6 +5175,11 @@
           {
             "startTime": 1735459200,
             "endTime": 1737230399,
+            "invalidObtainDesc": "暂未开放获取途径"
+          },
+          {
+            "startTime": 1792137600,
+            "endTime": 1793908799,
             "invalidObtainDesc": "暂未开放获取途径"
           }
         ]
@@ -5062,6 +5265,16 @@
           {
             "startTime": 1788476400,
             "endTime": 1790279999,
+            "invalidObtainDesc": "暂未开放获取途径"
+          }
+        ]
+      },
+      "tm_redvelvet_1": {
+        "id": "tm_redvelvet_1",
+        "limitInfos": [
+          {
+            "startTime": 1791500400,
+            "endTime": 1793303999,
             "invalidObtainDesc": "暂未开放获取途径"
           }
         ]
@@ -6465,6 +6678,78 @@
           "availStartTime": 1789891200,
           "availEndTime": 1791057599
         }
+      },
+      "nc_7d5_1": {
+        "id": "nc_7d5_1",
+        "name": "炽烈",
+        "type": "BASE",
+        "isSecret": true,
+        "sortId": 35,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1792848600,
+        "skinDesc": "落幕与兴起，变革与新生，都将在这灼灼烈焰中得到见证。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "感谢庆典前瞻签到奖励",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在感谢庆典前瞻签到获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": "TIER_5",
+        "skinTmplCnt": 1,
+        "canChangeTmpl": false,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "limitId": "nc_7d5_1",
+          "id": "nc_7d5_1",
+          "availStartTime": 1792848600,
+          "availEndTime": 1793649599
+        }
+      },
+      "nc_babel_1": {
+        "id": "nc_babel_1",
+        "name": "童话的结局",
+        "type": "BASE",
+        "isSecret": true,
+        "sortId": 36,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1793487600,
+        "skinDesc": "她和他们谱写了一篇童话，你见证了童话的结局……不，你相信那不会是真正的结局。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "特典兑换",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "设定集兑换码兑换获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": "TIER_5",
+        "skinTmplCnt": 1,
+        "canChangeTmpl": false,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "limitId": "nc_babel_1",
+          "id": "nc_babel_1",
+          "availStartTime": 1793487600,
+          "availEndTime": 1861732800
+        }
       }
     },
     "skinGroupDatas": [
@@ -6656,6 +6941,16 @@
             "id": "nc_dp_1",
             "groupType": "BASE",
             "sortId": 34
+          },
+          {
+            "id": "nc_7d5_1",
+            "groupType": "BASE",
+            "sortId": 35
+          },
+          {
+            "id": "nc_babel_1",
+            "groupType": "BASE",
+            "sortId": 36
           }
         ]
       }
@@ -10391,6 +10686,14 @@
             "[PACK]Mission/guide_1_1",
             "[PACK]Mission/guide_2_1"
           ]
+        },
+        {
+          "configId": "mission_guide_config_3",
+          "sortId": 3,
+          "pageIdList": [
+            "[PACK]Mission/entry",
+            "[PACK]Mission/guide_1_2"
+          ]
         }
       ]
     }
@@ -11483,7 +11786,8 @@
         "keyEffectGroup": "BATTLE",
         "isHidden": false,
         "relatedActTypes": [
-          "AUTOCHESS_SEASON"
+          "AUTOCHESS_SEASON",
+          68
         ],
         "gameModeTag": "autochess",
         "sortId": 4,
@@ -11622,6 +11926,25 @@
             "canBeSet": true,
             "defaultKeyId": "alphaY",
             "sortId": 2
+          }
+        ]
+      },
+      "globleFunc": {
+        "groupId": "globleFunc",
+        "name": "全局设置",
+        "funcType": "NORMAL",
+        "keyEffectGroup": "ALL",
+        "isHidden": false,
+        "relatedActTypes": [],
+        "sortId": 7,
+        "startTs": 1793487600,
+        "itemList": [
+          {
+            "funcId": "globleScreenshot",
+            "funcName": "截图",
+            "canBeSet": true,
+            "defaultKeyId": "keyF1",
+            "sortId": 1
           }
         ]
       }
@@ -11819,6 +12142,53 @@
   ],
   "artGalleryCollectData": {
     "collectionSets": {
+      "collect_rogue6": {
+        "setId": "collect_rogue6",
+        "setName": "黑流树海主题套组",
+        "setType": "ROGUE",
+        "sortId": 7501,
+        "startTime": 1792137600,
+        "completeTime": 1801425600,
+        "items": [
+          {
+            "itemId": "tm_rogue_6",
+            "itemType": "HOME_THEME",
+            "collectionSetId": "collect_rogue6",
+            "sortId": 3
+          },
+          {
+            "itemId": "char_1027_greyy2@wild#12",
+            "itemType": "CHAR_SKIN",
+            "collectionSetId": "collect_rogue6",
+            "sortId": 1
+          }
+        ],
+        "displayMaxCount": 5,
+        "missionList": {
+          "collect_rogue6_mission1": {
+            "missionId": "collect_rogue6_mission1",
+            "requireItemCount": 1,
+            "rewardList": [
+              {
+                "id": "leaf_rogue6",
+                "count": 1,
+                "type": "MAGAZINE_LEAF"
+              }
+            ]
+          },
+          "collect_rogue6_mission2": {
+            "missionId": "collect_rogue6_mission2",
+            "requireItemCount": 2,
+            "rewardList": [
+              {
+                "id": "itempack_stickers_rog6",
+                "count": 1,
+                "type": "ITEM_PACK"
+              }
+            ]
+          }
+        }
+      },
       "collect_rogue5": {
         "setId": "collect_rogue5",
         "setName": "界园志异主题套组",
@@ -12272,6 +12642,7 @@
         "typeFilterSelectIcon": "setType_rogue",
         "typeFilterUnselectIcon": "setType_rogue_unselect",
         "setIdList": [
+          "collect_rogue6",
           "collect_rogue5",
           "collect_rogue4",
           "collect_rogue3",
@@ -12560,6 +12931,30 @@
           "y": -135.133606
         },
         "skinDefaultScale": 0.849756,
+        "leafDecorMaxNumMap": {
+          "HOME_THEME": 2,
+          "HOME_BACKGROUND": 1,
+          "NAME_CARD_SKIN": 2,
+          "PLAYER_AVATAR": 3,
+          "STICKER": 5
+        }
+      },
+      "leaf_rogue6": {
+        "leafId": "leaf_rogue6",
+        "leafType": "ROGUE",
+        "sortId": 11,
+        "startTime": 1792137600,
+        "name": "页面/树海实录",
+        "desc": "沉沦之处，生灵溯游。",
+        "usage": "形艺特辑的页面设计，可用于版面编辑。",
+        "approach": "收集黑流树海主题套组获得",
+        "rarity": "TIER_5",
+        "templateStartTime": 0,
+        "skinDefaultPos": {
+          "x": 248.007996,
+          "y": -356.709167
+        },
+        "skinDefaultScale": 1.1,
         "leafDecorMaxNumMap": {
           "HOME_THEME": 2,
           "HOME_BACKGROUND": 1,
@@ -13504,6 +13899,26 @@
       "desc": "为特辑增添个性元素，展现独到美学理解。",
       "usage": "形艺特辑专用特辑收藏贴，可用于版面编辑。",
       "approach": "特殊活动获得",
+      "rarity": "TIER_5"
+    },
+    "sticker_rog_6_1": {
+      "id": "sticker_rog_6_1",
+      "name": "收藏贴/争斗",
+      "stickerType": "ROGUE",
+      "sortId": 26,
+      "desc": "为特辑增添个性元素，展现独到美学理解。",
+      "usage": "形艺特辑专用特辑收藏贴，可用于版面编辑。",
+      "approach": "收集黑流树海主题套组获得",
+      "rarity": "TIER_5"
+    },
+    "sticker_rog_6_2": {
+      "id": "sticker_rog_6_2",
+      "name": "收藏贴/饥饿",
+      "stickerType": "ROGUE",
+      "sortId": 27,
+      "desc": "为特辑增添个性元素，展现独到美学理解。",
+      "usage": "形艺特辑专用特辑收藏贴，可用于版面编辑。",
+      "approach": "收集黑流树海主题套组获得",
       "rarity": "TIER_5"
     }
   },

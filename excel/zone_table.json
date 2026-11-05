@@ -498,6 +498,14 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "camp_zone_16": {
+      "zoneID": "camp_zone_16",
+      "zoneIndex": 0,
+      "type": "CAMPAIGN",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "tower_tr_01": {
       "zoneID": "tower_tr_01",
       "zoneIndex": 0,
@@ -734,6 +742,87 @@
       "zoneID": "rogue_6",
       "zoneIndex": 6,
       "type": "ROGUELIKE",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act55side_zone1": {
+      "zoneID": "act55side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "残照终尽",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act55side_zone2": {
+      "zoneID": "act55side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "长冬初青",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act55side_zone3": {
+      "zoneID": "act55side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "世纪之春",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act1museum_zone_1": {
+      "zoneID": "act1museum_zone_1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "饥饿虫虫",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act1museum_zone_2": {
+      "zoneID": "act1museum_zone_2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "超级钩爪",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act1museum_zone_3": {
+      "zoneID": "act1museum_zone_3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "心连心",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act1museum_zone_4": {
+      "zoneID": "act1museum_zone_4",
+      "zoneIndex": 3,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "喷泉大战",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act52side_zone1": {
+      "zoneID": "act52side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "雷亚-伊比利亚",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act52side_zone2": {
+      "zoneID": "act52side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "“我们的伊比利亚”",
       "canPreview": false,
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
@@ -4518,6 +4607,42 @@
     }
   },
   "zoneValidInfo": {
+    "act55side_zone1": {
+      "startTs": 1793487600,
+      "endTs": 1795291199
+    },
+    "act55side_zone2": {
+      "startTs": 1794124800,
+      "endTs": 1795291199
+    },
+    "act55side_zone3": {
+      "startTs": 1794729600,
+      "endTs": 1795291199
+    },
+    "act1museum_zone_1": {
+      "startTs": 1792848600,
+      "endTs": 1793995199
+    },
+    "act1museum_zone_2": {
+      "startTs": 1792848600,
+      "endTs": 1793995199
+    },
+    "act1museum_zone_3": {
+      "startTs": 1793088000,
+      "endTs": 1793995199
+    },
+    "act1museum_zone_4": {
+      "startTs": 1793260800,
+      "endTs": 1793995199
+    },
+    "act52side_zone1": {
+      "startTs": 1791500400,
+      "endTs": 1792699199
+    },
+    "act52side_zone2": {
+      "startTs": 1792137600,
+      "endTs": 1792699199
+    },
     "act3break_zone1": {
       "startTs": 1790668800,
       "endTs": 1792439999

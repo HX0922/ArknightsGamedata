@@ -709,6 +709,71 @@
       "startTime": 1790668800,
       "endTime": 1792439999,
       "picType": "NONE"
+    },
+    {
+      "picId": "pic78_a_1",
+      "groupId": 23,
+      "sortId": 3,
+      "startTime": 1791500400,
+      "endTime": 1792699199,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic78_s_1",
+      "groupId": 23,
+      "sortId": 5,
+      "startTime": 1791500400,
+      "endTime": 1792699199,
+      "picType": "SKIN",
+      "logoId": "sightseer"
+    },
+    {
+      "picId": "pic78_a_2",
+      "groupId": 23,
+      "sortId": 2,
+      "startTime": 1792137600,
+      "endTime": 1792699199,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic78_s_2",
+      "groupId": 23,
+      "sortId": 4,
+      "startTime": 1792137600,
+      "endTime": 1793303999,
+      "picType": "SKIN",
+      "logoId": "nlc"
+    },
+    {
+      "picId": "pic78_a_3",
+      "groupId": 23,
+      "sortId": 1,
+      "startTime": 1792848600,
+      "endTime": 1793995199,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic79_a_1",
+      "groupId": 24,
+      "sortId": 2,
+      "startTime": 1793487600,
+      "endTime": 1795291199,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic79_s_1",
+      "groupId": 24,
+      "sortId": 3,
+      "startTime": 1793487600,
+      "endTime": 1794686399,
+      "picType": "SKIN",
+      "logoId": "epoque_kitchen_sale"
     }
-  ]
+  ],
+  "movieInfo": {
+    "videoId": "TL01",
+    "videoPath": "video/act55side/TL01.mp4",
+    "endTime": 1796166000,
+    "sortId": 11
+  }
 }

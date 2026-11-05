@@ -2730,7 +2730,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2771,6 +2771,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -2911,7 +2914,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -2952,6 +2955,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -3092,7 +3098,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -3133,6 +3139,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -3305,8 +3314,8 @@
             "m_value": 0.0
           },
           "stunImmune": {
-            "m_defined": true,
-            "m_value": false
+            "m_defined": false,
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": true,
@@ -3329,7 +3338,7 @@
             "m_value": false
           },
           "fearedImmune": {
-            "m_defined": false,
+            "m_defined": true,
             "m_value": false
           },
           "palsyImmune": {
@@ -3347,6 +3356,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
@@ -3501,7 +3513,7 @@
           },
           "stunImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "silenceImmune": {
             "m_defined": false,
@@ -3542,6 +3554,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {

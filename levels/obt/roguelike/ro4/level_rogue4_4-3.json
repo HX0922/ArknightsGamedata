@@ -4447,11 +4447,11 @@
           },
           "silenceImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "sleepImmune": {
             "m_defined": false,
-            "m_value": true
+            "m_value": false
           },
           "frozenImmune": {
             "m_defined": false,
@@ -4459,7 +4459,7 @@
           },
           "levitateImmune": {
             "m_defined": false,
-            "m_value": false
+            "m_value": true
           },
           "disarmedCombatImmune": {
             "m_defined": false,
@@ -4484,6 +4484,9 @@
           "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
+          },
+          "pair": {
+            "value": 0.0
           }
         },
         "applyWay": {
